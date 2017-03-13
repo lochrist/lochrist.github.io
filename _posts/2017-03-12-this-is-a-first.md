@@ -2,7 +2,6 @@
 layout: post
 title: "This is a first!"
 date: 2017-03-12
-category: slideOfLife
 tags: test theFirst
 ---
 
