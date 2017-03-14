@@ -10,8 +10,7 @@ markdown: kramdown
 baseurl: ""
 url: https://codinfox.github.io
 # Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+tag_page: '/blog/tags'
 
 # google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: '' # leave blank if you don't want disqus
