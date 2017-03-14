@@ -3,6 +3,7 @@ markdown: kramdown
 theme: jekyll-theme-slate
 title: Tech, Games and Whisky
 description: The Sebr's Blog
+permalink: /blog/:year-:month-:day-:title
 
 markdown: kramdown
 
