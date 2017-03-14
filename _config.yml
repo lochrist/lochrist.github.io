@@ -12,5 +12,6 @@ url: https://codinfox.github.io
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+# google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: '' # leave blank if you don't want disqus
+#google_analytics: ''
