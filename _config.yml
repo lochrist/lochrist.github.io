@@ -1,8 +1,8 @@
 name: Sebastien Phaneuf
 markdown: kramdown
 theme: jekyll-theme-slate
-title: Techs, Games and Whisky
-description: Sebastien's Phaneuf Blog
+title: Tech, Games and Whisky
+description: The Sebr's Blog
 
 markdown: kramdown
 
@@ -13,4 +13,4 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+disqus_short_name: '' # leave blank if you don't want disqus
