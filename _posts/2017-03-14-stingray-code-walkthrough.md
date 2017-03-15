@@ -15,10 +15,6 @@ I was really lucky to worked with them for the past few years and I learned trem
 But before they leave us, they gave us the gift of knowledge:
 
 ### The Stingray Walkthrough of Doom
+Niklas went balls out with a 25 parts video serie! It covers **everything** about the engine. From reading [configuration value](https://www.youtube.com/watch?v=1eohIaEmDFk&index=6&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV) to [compiling resources](https://www.youtube.com/watch?v=HsKzIBj-i_g&index=7&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV) and every thing in between.
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LgbSYxf9vT4/0.jpg)](http://www.youtube.com/watch?v=LgbSYxf9vT4)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=LgbSYxf9vT4&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV
-" target="_blank"><img src="http://img.youtube.com/vi/LgbSYxf9vT4&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LgbSYxf9vT4&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV/0.jpg)](http://www.youtube.com/watch?v=LgbSYxf9vT4&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV)
