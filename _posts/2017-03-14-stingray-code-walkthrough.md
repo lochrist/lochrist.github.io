@@ -15,6 +15,9 @@ I was really lucky to worked with them for the past few years and I learned trem
 But before they leave us, they gave us the gift of knowledge:
 
 ### The Stingray Walkthrough of Doom
+
 Niklas went balls out with a 25 parts video serie! It covers **everything** about the engine. From reading [configuration value](https://www.youtube.com/watch?v=1eohIaEmDFk&index=6&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV) to [compiling resources](https://www.youtube.com/watch?v=HsKzIBj-i_g&index=7&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV) and every thing in between.
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LgbSYxf9vT4/0.jpg)](http://www.youtube.com/watch?v=LgbSYxf9vT4)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LgbSYxf9vT4/0.jpg)](http://www.youtube.com/watch?v=LgbSYxf9vT4&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV)
+
+Tobias was a little bit more low key but covered all the shiny rendering stuff as deeply with its 10 (ish) parts [blog serie](http://bitsquid.blogspot.ca/2017/02/stingray-renderer-walkthrough.html).
 
