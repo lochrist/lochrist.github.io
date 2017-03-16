@@ -12,11 +12,17 @@
 - art
 - pixelArt
 
+# Post Ideas
+- Overland adventures games
+- Compact games
+- Single file libraries + C library
+- Coding simply: at stingray, orthodox C++
+- Phaser and web game engine
+
+
 # Links:
 
 ## Dev
-###IMGUI
-https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62
 
 ###Game framework + presentation
 https://github.com/SonyWWS/ATF
@@ -47,10 +53,6 @@ http://www.gamasutra.com/blogs/JoshGe/20170207/290928/Two_Years_of_Roguelike_Dev
 
 ###Webassembly in Node js
 http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
-
-###Singray code walkthrough
-https://www.youtube.com/watch?v=LgbSYxf9vT4&list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV
-http://bitsquid.blogspot.ca/2017/02/stingray-renderer-walkthrough.html
 
 
 ### Porting 200K LOC of js to typescript
