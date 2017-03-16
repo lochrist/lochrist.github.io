@@ -56,6 +56,9 @@ http://bitsquid.blogspot.ca/2017/02/stingray-renderer-walkthrough.html
 ### Porting 200K LOC of js to typescript
 https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb
 
+### Zenva tutorial:
+https://academy.zenva.com/lesson/boot-and-loading/
+
 ## Misc
 ###Cartoons
 https://code-cartoons.com/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stingray Code Walkthrough"
+title: "Stingray Walkthrough"
 date: 2017-03-14
 tags: [autodesk, stingray]
 ---
