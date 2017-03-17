@@ -18,7 +18,11 @@
 - Single file libraries + C library
 - Coding simplicity: at stingray, orthodox C++
 - Phaser and web game engine
-- 
+- Ink + Sorcery
+- Why are boardgames cool
+- One Page Boardgame design context and Magic Realm 
+
+Follow up on Pixel Art: http://pixelation.org/index.php?topic=19594
 
 # Links:
 
@@ -73,6 +77,15 @@ https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
 
 ###Pico-8
 http://www.lexaloffle.com/pico-8.php
+
+### Deploying workld (game engine) on the cloud
+https://spatialos.improbable.io/
+
+### Sorcery
+http://www.inklestudios.com/sorcery/
+http://www.inklestudios.com/ink/
+https://github.com/inkle/ink
+https://www.amazon.ca/Hidden-Alex-Verus-Benedict-Jacka-ebook/dp/B00IOE4LCM/ref=pd_sim_351_2?_encoding=UTF8&psc=1&refRID=79XCH562M79VAK89GK8F
 
 ## Board Games
 
