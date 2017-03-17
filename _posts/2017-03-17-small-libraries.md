@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMGUI"
+title: "Small UI libraries"
 date: 2017-03-15
 tags: [dev, hyperapp, mithril, preact, goo]
 ---
@@ -10,7 +10,7 @@ As a developer who has worked on both big C++ applications (multi-millions lines
 As an added bonus, in javascript having small code size has the intrinsic benefits of made your application faster: there is less code to download and to evaluate!
 
 ###Mithril
-I discovered [Mihtril](http://mithril.js.org/) after having worked with [Angular 1](https://angularjs.org/) for a few years. We had a lot of performance problem and I was looking at a library that could be mixed with Angular to optimize our Property editor.
+I discovered [Mithril](http://mithril.js.org/) after having worked with [Angular 1](https://angularjs.org/) for a few years. We had a lot of performance problem and I was looking at a library that could be mixed with Angular to optimize our Property editor.
 
 What turned me onto Mithril at first were the SUPER great [benchmarks](https://jsperf.com/angular-vs-knockout-vs-ember/820). It was way faster than Angular or even React for that matter. But what really sold me on Mithril was its super nice and tiny [API](https://github.com/lhorie/mithril.js/blob/v0_2_x/docs/getting-started.md). In the end, we end up using only 3 functions to redo most of our performance hungry widgets! The code size of version [0.21](https://github.com/lhorie/mithril.js/blob/v0_2_x/mithril.js) was also really small (2200 LOC). It was easy enough to read it, digest it and even modify it (we added a cache system so components could be redrawn indenpendantly of each other).
 
