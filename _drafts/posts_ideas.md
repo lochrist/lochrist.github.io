@@ -16,9 +16,9 @@
 - Overland adventures games
 - Compact games
 - Single file libraries + C library
-- Coding simply: at stingray, orthodox C++
+- Coding simplicity: at stingray, orthodox C++
 - Phaser and web game engine
-
+- 
 
 # Links:
 
