@@ -22,11 +22,11 @@ These days I listen mostly to [The Dicetower](http://www.dicetower.com/), [The D
 Strange to see how a medium as low key as boardgaming has pioneered the podcast movement (or has it?).
 
 ### Present times
-These days I still play a lot of games. My boardgame [collection](https://www.boardgamegeek.com/collection/user/lochrist?own=1&subtype=boardgame&ff=1) is still growing thanks in part to [kickstarter](https://www.kickstarter.com/discover/categories/games/tabletop%20games?ref=discovery_overlay). I play both Euro games like [Puerto Rico](https://www.boardgamegeek.com/boardgame/3076/puerto-rico), [Terra Mystica]() and [Agricola](). I also play a lot of more confrontational games like [Cry Havoc](), [Eclipse]() and [Scythe]().
+These days I still play a lot of games. My boardgame [collection](https://www.boardgamegeek.com/collection/user/lochrist?own=1&subtype=boardgame&ff=1) is still growing thanks in part to [kickstarter](https://www.kickstarter.com/discover/categories/games/tabletop%20games?ref=discovery_overlay). I play both Euro games like [Puerto Rico](https://www.boardgamegeek.com/boardgame/3076/puerto-rico), [Terra Mystica](https://www.boardgamegeek.com/boardgame/120677/terra-mystica) and [Agricola](https://www.boardgamegeek.com/boardgame/31260/agricola). I also play a lot of more confrontational games like [Cry Havoc](https://www.boardgamegeek.com/boardgame/192457/cry-havoc), [Eclipse](https://www.boardgamegeek.com/boardgame/72125/eclipse) and [Scythe](https://www.boardgamegeek.com/boardgame/169786/scythe).
 
-Since I have been gaming for such a long time, I am a bit jaded :) I do not play all the latest Euro games coming from Essen. At some point, when you have played a lot of "Victory point cube pushers" they all seem a bit samey. I tend to like games where the theme is well integrated. And when you feel the mechanics are well connected to how you win. [Power Grid]() and [Kemet]() are good examples of games with well integrated themes.
+Since I have been gaming for such a long time, I am a bit jaded :) I do not play all the latest Euro games coming from Essen. At some point, when you have played a lot of "Victory point cube pushers" they all seem a bit samey. I tend to like games where the theme is well integrated. And when you feel the mechanics are well connected to how you win. [Power Grid](https://www.boardgamegeek.com/boardgame/2651/power-grid) and [Kemet](https://www.boardgamegeek.com/boardgame/127023/kemet) are good examples of games with well integrated themes.
 
-These days I really like campaign games like [Imperial Assault](), [Descent](), [Seafal]() or the newer and super intriguing [Gloomhaven]().
+These days I really like campaign games like [Imperial Assault](https://www.boardgamegeek.com/boardgame/164153/star-wars-imperial-assault), [Descent](https://www.boardgamegeek.com/boardgame/104162/descent-journeys-dark-second-edition), [Seafal](https://www.boardgamegeek.com/boardgame/148261/seafall) or the newer and super intriguing [Gloomhaven](https://www.boardgamegeek.com/boardgame/174430/gloomhaven).
 
 ### Developers and games
 On the different boardgames forums, I noticed that a lot of gamers are working in the tech world. It seems games appeal to the mind of programmers! Why is that?
@@ -46,7 +46,7 @@ In Roborally [https://www.boardgamegeek.com/boardgame/18/roborally] you use card
 
 The fact that the cards you receive are random at the beginning of a turn makes it difficult to always do something really clever or useful. But the dynamism of the board and of the different conveyor belts, lasers and pushers make every turn a challenge to progam that robot.
 
-[Mechs and Minion](https://www.boardgamegeek.com/boardgame/209010/mechs-vs-minions) a boargdame by [Riot games]() (yes that company is into boardgame as well!) uses the programming element of roborally but adds a campaign to it.
+[Mechs and Minion](https://www.boardgamegeek.com/boardgame/209010/mechs-vs-minions) a boargdame by [Riot games](http://www.riotgames.com/) (yes that company is into boardgame as well!) uses the programming element of roborally but adds a campaign to it.
 
 ![meches](https://cf.geekdo-images.com/images/pic3225907_md.jpg)
 
