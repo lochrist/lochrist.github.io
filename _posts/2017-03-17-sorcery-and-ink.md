@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sorcery and Ink"
-date: 2017-03-15
+date: 2017-03-17
 tags: [sorcery, ink, book, computerGame]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Small UI libraries"
-date: 2017-03-15
+date: 2017-03-16
 tags: [dev, hyperapp, mithril, preact, goo]
 ---
 
