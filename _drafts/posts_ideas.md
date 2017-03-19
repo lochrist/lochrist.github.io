@@ -18,8 +18,7 @@
 - Single file libraries + C library
 - Coding simplicity: at stingray, orthodox C++
 - Phaser and web game engine
-- One Page Boardgame design context and Magic Realm
- - Epic and gaming litterature
+- One Page Boardgame design context and Magic Realm 
 
 Follow up on Pixel Art: http://pixelation.org/index.php?topic=19594
 
@@ -41,9 +40,6 @@ https://www.youtube.com/watch?v=6Fg3Aj9GzNw&feature=youtu.be
 
 ###Writing a game engine in 2017
 http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017/
-
-###Web tool postmortem:
-https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf
 
 ###Vue.js front end ui comparison
 http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison
@@ -77,7 +73,7 @@ https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
 ###Pico-8
 http://www.lexaloffle.com/pico-8.php
 
-### Deploying workld (game engine) on the cloud
+### Deploying world (game engine) on the cloud
 https://spatialos.improbable.io/
 
 ## Board Games
