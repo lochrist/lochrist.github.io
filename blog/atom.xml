@@ -1,17 +1,16 @@
 ---
-layout: feed
+layout: default
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Hank Quinlan's Blog</title>
+	<title>The Sebr's Blog</title>
 	<link href="http://lochrist.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://lochrist.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://lochrist.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
-		<email>hankquinlanhub@gmail.com</email>
+		<name>Sebastien Phaneuf</name>
 	</author>
 
 	{% for post in site.posts %}
