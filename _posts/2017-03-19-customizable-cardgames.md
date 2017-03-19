@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boardgames"
+title: "Customizable Card Games"
 date: 2017-03-18
 tags: [cardgame, mtg, epic, netrunner]
 ---
