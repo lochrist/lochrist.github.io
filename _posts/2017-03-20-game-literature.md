@@ -2,7 +2,7 @@
 layout: post
 title: "Game literature"
 date: 2017-03-20
-tags: [epic, magic, hearthstone, bgg]
+tags: [epic, magic, hearthstone, bgg, boardgam, cardgame]
 ---
 
 ### Early days
