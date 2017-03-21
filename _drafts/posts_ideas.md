@@ -46,6 +46,9 @@ http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017/
 ###Vue.js front end ui comparison
 http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison
 
+### slide show viewer (like nfslides) in vue.js
+https://github.com/zulko/eagle.js/
+
 ### Procedural world generation
  http://www.gamasutra.com/blogs/WilhemBates/20170202/290618/Making_a_Procedural_2D_World_in_Unity_Part_I.php
 
