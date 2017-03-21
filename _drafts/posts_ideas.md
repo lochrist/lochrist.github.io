@@ -17,10 +17,12 @@
 - Compact games
 - Single file libraries + C library
 - Coding simplicity: at stingray, orthodox C++
+http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
+https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
+Handmade Hero
+
 - Phaser and web game engine
 - One Page Boardgame design context and Magic Realm 
-
-Follow up on Pixel Art: http://pixelation.org/index.php?topic=19594
 
 # Links:
 
@@ -75,6 +77,15 @@ http://www.lexaloffle.com/pico-8.php
 
 ### Deploying world (game engine) on the cloud
 https://spatialos.improbable.io/
+
+### Front end performance
+https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/
+https://developers.google.com/web/fundamentals/performance/rendering/
+https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
+
+### Js Stack
+https://github.com/verekia/js-stack-from-scratch
+https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.g8pkgi1co
 
 ## Board Games
 

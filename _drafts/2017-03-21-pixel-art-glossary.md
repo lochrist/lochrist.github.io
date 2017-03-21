@@ -21,7 +21,7 @@ Mark Ferrari, one of the main artist on a lot of cult Lucas Art classic games li
 ### Piskel editor
 Last time I wrote about [Goya](https://github.com/jackschaedler/goya) which was really interesting for me because it is build using "functional programming". But one really great pixel art editor is [piskel](http://www.piskelapp.com/). It is also a Web editor that is [open source](https://github.com/juliandescottes/piskel). You can store your own gallery of drawings and export animation to gif.
 
-This editor is built using some really nice third party libraries:
+This editor is built using some really useful third party libraries:
 
 - [Gif.js](http://jnordberg.github.io/gif.js/): creates your own gif from still images.
 - [Spectrum](https://github.com/bgrins/spectrum) a great color picker that is super [customizable](http://bgrins.github.io/spectrum/).
