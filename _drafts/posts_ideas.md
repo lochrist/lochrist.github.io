@@ -14,19 +14,29 @@
 
 # Post Ideas
 - Overland adventures games
-- Compact games
 - Single file libraries + C library
 - Coding simplicity: at stingray, orthodox C++
 http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
 https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
 Handmade Hero
 
-- Phaser and web game engine
-- One Page Boardgame design context and Magic Realm 
+- Phaser and web game engine 
+- Tech toolbox for Game Programmers
 
 # Links:
 
 ## Dev
+
+### Tech toolbox for Game Programmers
+https://www.youtube.com/watch?v=W_okgL6HJX8
+[dear imgui]
+jointjs
+nw.js
+github.com/etodd/dialogger
+etodd.io
+puzzle script [http://www.puzzlescript.net/]
+
+
 
 ###Game framework + presentation
 https://github.com/SonyWWS/ATF
@@ -68,6 +78,9 @@ https://academy.zenva.com/lesson/boot-and-loading/
 ## Misc
 ###Cartoons
 https://code-cartoons.com/
+
+### Deep learning:
+https://github.com/janhuenermann/neurojs
 
 ###zcash
 https://z.cash/
