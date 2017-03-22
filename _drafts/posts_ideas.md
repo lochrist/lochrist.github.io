@@ -27,17 +27,6 @@ Handmade Hero
 
 ## Dev
 
-### Tech toolbox for Game Programmers
-https://www.youtube.com/watch?v=W_okgL6HJX8
-[dear imgui]
-jointjs
-nw.js
-github.com/etodd/dialogger
-etodd.io
-puzzle script [http://www.puzzlescript.net/]
-
-
-
 ###Game framework + presentation
 https://github.com/SonyWWS/ATF
 
@@ -102,6 +91,10 @@ https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 ### Js Stack
 https://github.com/verekia/js-stack-from-scratch
 https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.g8pkgi1co
+
+## Preact deep digging
+https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.66wm1dr3u
+https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.2t1lxgvk0
 
 ## Board Games
 
