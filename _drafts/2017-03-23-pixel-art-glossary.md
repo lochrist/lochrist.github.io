@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pixel Art Glossary"
-date: 2017-03-21
+date: 2017-03-23
 tags: [pixelArt, pixelation, piskel, markFerrari, gif]
 ---
 
