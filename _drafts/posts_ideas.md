@@ -73,6 +73,7 @@ https://github.com/janhuenermann/neurojs
 
 ###zcash
 https://z.cash/
+https://futurism.com/what-venture-capitalists-got-wrong-about-bitcoin/
 
 ###How to start a startup without ruining your life
 https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
@@ -96,12 +97,25 @@ https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f
 https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.66wm1dr3u
 https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.2t1lxgvk0
 
+### Text editor perf
+https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
+https://www.reddit.com/r/programming/comments/60wil3/text_editor_performance_comparison/
+http://prodbg.com/rethinking-ui/
+https://github.com/emoon/ProDBG/issues/327
+
+### Goodmodule
+https://www.instagram.com/goodmodule/
+
 ## Board Games
 
-### Micro
-- One Deck Dungeon
-- Eminent Domain: Microcosm
-- Magic Realms Light
+
+
+### Multi use cards in game
+race for the galaxy, one deck dungeon, impulse, glory to rome
+
+### Theme integration in games
+Marco polo vs Russian railroad. Great wetern Trail
+
 
 
 

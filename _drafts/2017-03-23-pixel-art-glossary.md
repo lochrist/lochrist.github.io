@@ -9,7 +9,7 @@ I already wrote about my fascination with [Pixel Art](https://lochrist.github.io
 
 ![animation](http://dennisbusch.de/shared/paag/PAGlossary_Animation.gif)
 
-### Color Swawp
+### Color Swap
 
 The [Palette Swap](https://en.wikipedia.org/wiki/Color_cycling) post is really interesting in showcasing how you can create water effects:
 
