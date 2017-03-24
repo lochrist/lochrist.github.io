@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to setup a blog?"
-date: 2017-03-12
+title: "Preact Internals"
+date: 2017-03-24
 tags: [preact, webDev, react]
 ---
 
