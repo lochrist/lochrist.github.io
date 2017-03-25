@@ -21,7 +21,6 @@ https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
 Handmade Hero
 
 - Phaser and web game engine 
-- Tech toolbox for Game Programmers
 
 # Links:
 
@@ -93,9 +92,6 @@ https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 https://github.com/verekia/js-stack-from-scratch
 https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.g8pkgi1co
 
-## Preact deep digging
-https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.66wm1dr3u
-https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.2t1lxgvk0
 
 ### Text editor perf
 https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
