@@ -102,6 +102,9 @@ https://github.com/emoon/ProDBG/issues/327
 ### Goodmodule
 https://www.instagram.com/goodmodule/
 
+### Making react fast
+https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
+
 ## Board Games
 
 
