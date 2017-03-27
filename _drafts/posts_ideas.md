@@ -99,11 +99,21 @@ https://www.reddit.com/r/programming/comments/60wil3/text_editor_performance_com
 http://prodbg.com/rethinking-ui/
 https://github.com/emoon/ProDBG/issues/327
 
+### MobX vs Redux:
+http://djcordhose.github.io/react-workshop/2017_jsunconf_mobx_redux.html#/
+https://github.com/DJCordhose/react-workshop/tree/master/code/schritte/mobx/7-mobx-complete-app
+
 ### Goodmodule
 https://www.instagram.com/goodmodule/
 
 ### Making react fast
 https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
+
+### ESLint
+https://www.youtube.com/watch?v=Vh_gOMfOod8
+
+### Live scrtch pad in VSCode:
+https://quokkajs.com/
 
 ## Board Games
 
