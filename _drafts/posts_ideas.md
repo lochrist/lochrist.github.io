@@ -31,6 +31,7 @@ https://github.com/SonyWWS/ATF
 
 ### Compiler in one file
 https://github.com/Celtoys/Remotery
+see stb + doc about this
 
 ### Phaser and Zenva tutorial and plugin:
 https://academy.zenva.com/lesson/boot-and-loading/
@@ -40,9 +41,6 @@ https://gamedevacademy.org/html5-phaser-tutorial-top-down-games-with-tiled/
 
 ### Post Javascript Apocalypse
 https://www.youtube.com/watch?v=6Fg3Aj9GzNw&feature=youtu.be
-
-### Writing a game engine in 2017
-http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017/
 
 ### Vue.js front end ui comparison
 http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison
@@ -115,10 +113,10 @@ https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
 ### ESLint
 https://www.youtube.com/watch?v=Vh_gOMfOod8
 
-### Live scrtch pad in VSCode:
+### Live scratch pad in VSCode:
 https://quokkajs.com/
 
-### Insomniac cache 
+### Insomniac cache
 https://github.com/InsomniacGames/ig-cachesim
 https://deplinenoise.files.wordpress.com/2017/03/cachesimstyled.pdf
 
