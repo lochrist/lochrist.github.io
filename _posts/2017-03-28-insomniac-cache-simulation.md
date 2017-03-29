@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to setup a blog?"
+title: "Insomniac Cache Simulation"
 date: 2017-03-28
 tags: [cache, c++, insomniac]
 ---
