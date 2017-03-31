@@ -64,6 +64,9 @@ https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-s
 ### Pixel Art
 http://www.gameart2d.com/top-down-tileset-1.html
 
+### Indie Games development
+http://jeff-vogel.blogspot.ca/2017/03/writing-indie-games-is-like-being.html
+
 ## Misc
 ###Cartoons
 https://code-cartoons.com/
@@ -71,12 +74,18 @@ https://code-cartoons.com/
 ### Deep learning:
 https://github.com/janhuenermann/neurojs
 
+### Recurrent Neural Networks
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 ### zcash
 https://z.cash/
 https://futurism.com/what-venture-capitalists-got-wrong-about-bitcoin/
 
 ### How to start a startup without ruining your life
 https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
+
+### Bedrock : Production ready node environment
+https://tilomitra.github.io/bedrock/
 
 ### Pico-8
 http://www.lexaloffle.com/pico-8.php
@@ -116,15 +125,16 @@ https://www.youtube.com/watch?v=Vh_gOMfOod8
 ### Live scratch pad in VSCode:
 https://quokkajs.com/
 
-### Insomniac cache
-https://github.com/InsomniacGames/ig-cachesim
-https://deplinenoise.files.wordpress.com/2017/03/cachesimstyled.pdf
+### Purescript
+https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef?gi=7b33892c0afd
+http://www.purescript.org/
 
 
 ## Board Games
 
 ### Multi use cards in game
 race for the galaxy, one deck dungeon, impulse, glory to rome
+http://www.dicetowernews.com/ks-for-2nd-edition-of-impulse-by-carl-chudyk/43022
 
 ### Theme integration in games
 Marco polo vs Russian railroad. Great wetern Trail
