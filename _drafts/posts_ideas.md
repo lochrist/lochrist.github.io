@@ -39,6 +39,8 @@ https://www.programmingmind.com/phaser/fun-with-spells-using-phaser
 http://phaser.io/news/2017/03/sprite-gui
 https://gamedevacademy.org/html5-phaser-tutorial-top-down-games-with-tiled/ 
 
+### Post Javascript Apocalypse
+https://www.youtube.com/watch?v=6Fg3Aj9GzNw&feature=youtu.be
 
 ### Vue.js front end ui comparison
 http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison
@@ -49,18 +51,17 @@ https://github.com/zulko/eagle.js/
 ### Procedural world generation
  http://www.gamasutra.com/blogs/WilhemBates/20170202/290618/Making_a_Procedural_2D_World_in_Unity_Part_I.php
 
-### Roguelike development
-http://www.gamasutra.com/blogs/JoshGe/20170207/290928/Two_Years_of_Roguelike_Development_FAQs.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GamasutraFeatureArticles+%28Gamasutra+Feature+Articles%29
-
 ### Webassembly in Node js
 http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
-
 
 ### Porting 200K LOC of js to typescript
 https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb
 
 ### Pixel Art
 http://www.gameart2d.com/top-down-tileset-1.html
+
+### Indie Games development
+http://jeff-vogel.blogspot.ca/2017/03/writing-indie-games-is-like-being.html
 
 ## Misc
 ###Cartoons
@@ -69,12 +70,18 @@ https://code-cartoons.com/
 ### Deep learning:
 https://github.com/janhuenermann/neurojs
 
+### Recurrent Neural Networks
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 ### zcash
 https://z.cash/
 https://futurism.com/what-venture-capitalists-got-wrong-about-bitcoin/
 
 ### How to start a startup without ruining your life
 https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
+
+### Bedrock : Production ready node environment
+https://tilomitra.github.io/bedrock/
 
 ### Pico-8
 http://www.lexaloffle.com/pico-8.php
@@ -91,6 +98,8 @@ https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 https://github.com/verekia/js-stack-from-scratch
 https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.g8pkgi1co
 
+### Finite State machine promise based
+https://github.com/vstirbu/fsm-as-promised
 
 ### Text editor perf
 https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
@@ -114,10 +123,11 @@ https://www.youtube.com/watch?v=Vh_gOMfOod8
 ### Live scratch pad in VSCode:
 https://quokkajs.com/
 
-## Board Games
+### Purescript
+https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef?gi=7b33892c0afd
+http://www.purescript.org/
 
-### Multi use cards in game
-race for the galaxy, one deck dungeon, impulse, glory to rome
+## Board Games
 
 ### Theme integration in games
 Marco polo vs Russian railroad. Great wetern Trail
