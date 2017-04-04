@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reigns and emerging narrative"
-date: 2017-04-04
+date: 2017-04-03
 tags: [reigns, gameDesign, computerGame, cardGame]
 ---
 
