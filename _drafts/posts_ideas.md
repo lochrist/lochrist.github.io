@@ -19,7 +19,7 @@
 http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
 https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
 Handmade Hero
-
+- Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 - Phaser and web game engine 
 
 # Links:
@@ -39,8 +39,6 @@ https://www.programmingmind.com/phaser/fun-with-spells-using-phaser
 http://phaser.io/news/2017/03/sprite-gui
 https://gamedevacademy.org/html5-phaser-tutorial-top-down-games-with-tiled/ 
 
-### Post Javascript Apocalypse
-https://www.youtube.com/watch?v=6Fg3Aj9GzNw&feature=youtu.be
 
 ### Vue.js front end ui comparison
 http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison
@@ -53,6 +51,7 @@ https://github.com/zulko/eagle.js/
 
 ### Webassembly in Node js
 http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
+
 
 ### Porting 200K LOC of js to typescript
 https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb
@@ -129,12 +128,36 @@ http://www.purescript.org/
 
 ## Board Games
 
-### Theme integration in games
-Marco polo vs Russian railroad. Great wetern Trail
-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+Post incognito:
 
+https://lochrist.github.io/blog/2017-03-12-setup-a-blog
+
+https://lochrist.github.io/blog/2017-03-13-pixel-art
+
+https://lochrist.github.io/blog/2017-03-14-stingray-walkthrough
+
+https://lochrist.github.io/blog/2017-03-16-small-libraries
+
+
+https://lochrist.github.io/blog/2017-03-17-sorcery-and-ink
+
+https://lochrist.github.io/blog/2017-03-18-boargames
+
+https://lochrist.github.io/blog/2017-03-20-game-literature
+
+https://lochrist.github.io/blog/2017-03-21-tech-toolbox-for-programmers
+
+https://lochrist.github.io/blog/2017-03-23-pixel-art-glossary
+
+https://lochrist.github.io/blog/2017-03-24-preact-internals
+
+https://lochrist.github.io/blog/2017-03-26-writing-a-game-engine
+
+https://lochrist.github.io/blog/2017-03-27-learning-magic
+
+https://lochrist.github.io/blog/2017-03-29-roguelike-development
