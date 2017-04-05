@@ -71,6 +71,8 @@ https://github.com/janhuenermann/neurojs
 
 ### Recurrent Neural Networks
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+http://torch.ch/
+https://github.com/torch/torch7/wiki/Cheatsheet
 
 ### zcash
 https://z.cash/
