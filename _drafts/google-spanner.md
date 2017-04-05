@@ -1,6 +1,8 @@
 ---
-layout: post title: "Roguelikes"
-date: 2017-04-04 tags: [google, dev, spanner]
+layout: post
+title: "Roguelikes"
+date: 2017-04-04
+tags: [google, dev, spanner]
 ---
 
 Nice [article](https://futurism.com/4-googles-spanner-is-now-available-on-the-cloud-for-everyone/) by Futurism on [Google Cloud Spanner](https://cloud.google.com/spanner/) the new Relational Database that is used by all big Google Services (Gmail, adWords, Photos and Play Store).

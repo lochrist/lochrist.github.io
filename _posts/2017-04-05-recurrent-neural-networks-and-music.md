@@ -1,6 +1,8 @@
 ---
-layout: post title: "Recurrent Neural Network and Music"
-date: 2017-04-04 tags: [neuralNetwork, AI, learning, music]
+layout: post
+title: "Recurrent Neural Network and Music"
+date: 2017-04-04
+tags: [neuralNetwork, AI, learning, music]
 ---
 
 I stumbled on this great (and somewhat old) [article](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) about Recurrent Neural Network recently. I will admit that I know next to nothing about Neural Network. And much less about the fact that they could be Recurrent. 

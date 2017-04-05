@@ -1,6 +1,8 @@
 ---
-layout: post title: "Card game drafting"
-date: 2017-04-04 tags: [draft, mtg, epic, cardGame]
+layout: post
+title: "Card game drafting"
+date: 2017-04-04
+tags: [draft, mtg, epic, cardGame]
 ---
 
 I already [talked](https://lochrist.github.io/blog/2017-03-18-customizable-cardgames) about card games (both CCG and LCG) and how they are sort of *lifestyle* games. The fact that the games evolve regularly makes it more difficult to play with more casual people. Especially if you follow the tournament scene closely. 
