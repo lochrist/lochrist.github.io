@@ -159,5 +159,3 @@ https://lochrist.github.io/blog/2017-03-24-preact-internals
 https://lochrist.github.io/blog/2017-03-26-writing-a-game-engine
 
 https://lochrist.github.io/blog/2017-03-27-learning-magic
-
-https://lochrist.github.io/blog/2017-03-29-roguelike-development
