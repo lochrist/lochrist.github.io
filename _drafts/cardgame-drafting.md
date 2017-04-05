@@ -1,20 +1,17 @@
 ---
-layout: post
-title: "Cardgame drafting"
-date: 2017-04-04
-tags: [draft, mtg, epic, cardGame]
+layout: post title: "Card game drafting"
+date: 2017-04-04 tags: [draft, mtg, epic, cardGame]
 ---
 
-I already [talked](https://lochrist.github.io/blog/2017-03-18-customizable-cardgames) about card game (both CCG and LCG) and how they are sort of *lifestyle* games. The fact that the game evolve regularly makes it more difficult to play with more casual people. Especially if you follow the tournament scene closely. 
+I already [talked](https://lochrist.github.io/blog/2017-03-18-customizable-cardgames) about card games (both CCG and LCG) and how they are sort of *lifestyle* games. The fact that the games evolve regularly makes it more difficult to play with more casual people. Especially if you follow the tournament scene closely. 
 
 One great way to level the playing field in Magic the Gathering is to play [Limited](http://mtg.gamepedia.com/Limited) format like a [booster draft](http://mtg.gamepedia.com/Booster_pack). In a booster draft players buy boosters packs and draft the cards in them in a specific manner. Each player must then  create the best deck possible. And then you play a tournament involving all players and see how player were both able to draft properly and to play their deck the best.
 
-Booster draft are a good way of playing a game with people who do not have a huge collection of cards. But they can be costly. Especially if you are drafting [Modern Masters](http://magic.wizards.com/en/products/modern-masters-2017) boosters. And what to do with all the cards afterwards if you are not a regular player?
+Booster drafts are a good way of playing a game with people who do not have a huge collection of cards. But they can be costly. Especially if you are drafting [Modern Masters](http://magic.wizards.com/en/products/modern-masters-2017) boosters. And what to do with all the cards afterwards if you are not a regular player?
 
-An alternative is to design a *Cube* and do a [Cube Draft](http://mtg.gamepedia.com/Cube_Draft). You must first assemble your cube by building a balance set of at least 360 cards (all different if possible). Then you gather 8 players who will draft using randomly assemble boosters of 15 cards. And then you play a tournament and see who wins. Cube are fun both on a drafting and playing point of view. But they are also super interesting on a *cube building* side. Which cards do you pick? Do you want to seed your Cube with predefine adeck archetypes (aggro, control, ramp, tokens)? This article highlight all the basis of good [cube building](http://magic.wizards.com/en/articles/archive/how-build/building-your-first-cube-2016-05-19). The only downside to a Cube draft for me is gathering 8 players and have a tournament. That is why I find it really easier to play Cube on [Magic the Gathering Online](http://magic.wizards.com/en/content/magic-online-products-game-info).
+An alternative is to design a *Cube* and do a [Cube Draft](http://mtg.gamepedia.com/Cube_Draft). You must first assemble your cube by building a balance set of at least 360 cards (all different if possible). Then you gather 8 players who will draft using randomly assemble boosters of 15 cards. And then you play a tournament and see who wins. Cubes are fun both on a drafting and playing point of view. But they are also super interesting on a *cube building* side. Which cards do you pick? Do you want to seed your Cube with predefined deck archetypes (aggro, control, ramp, tokens)? This article highlight all the basis of good [cube building](http://magic.wizards.com/en/articles/archive/how-build/building-your-first-cube-2016-05-19). The only downside to a Cube draft for me is gathering 8 players and have a tournament. That is why I find it really easier to play Cube on [Magic the Gathering Online](http://magic.wizards.com/en/content/magic-online-products-game-info).
 
-
-The *ULTIMATE* solution to a cheap draft that can easily accomodate 2 players is the [Epic Card Game](http://www.epiccardgame.com). This great card game is sort of a simplified Magic The Gathering (on steroids).
+The *ULTIMATE* solution to a cheap draft that can easily accommodate 2 players is the [Epic Card Game](http://www.epiccardgame.com). This great card game is sort of a simplified Magic the Gathering (on steroids).
 
 ![wurm](http://www.epiccardgame.com/wp-content/uploads/2015/09/elder_greatwurm.jpg)
 

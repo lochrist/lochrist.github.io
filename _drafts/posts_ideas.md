@@ -21,6 +21,9 @@ https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
 Handmade Hero
 - Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 - Phaser and web game engine 
+- How to build a remote team
+http://www.gdcvault.com/play/1023288/How-to-Build-a-Remote
+trello: 
 
 # Links:
 
@@ -69,11 +72,6 @@ https://code-cartoons.com/
 ### Deep learning:
 https://github.com/janhuenermann/neurojs
 
-### Recurrent Neural Networks
-http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-http://torch.ch/
-https://github.com/torch/torch7/wiki/Cheatsheet
-
 ### zcash
 https://z.cash/
 https://futurism.com/what-venture-capitalists-got-wrong-about-bitcoin/
@@ -120,9 +118,6 @@ https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
 
 ### ESLint
 https://www.youtube.com/watch?v=Vh_gOMfOod8
-
-### Live scratch pad in VSCode:
-https://quokkajs.com/
 
 ### Purescript
 https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef?gi=7b33892c0afd
