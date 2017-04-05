@@ -3,14 +3,14 @@ layout: post title: "Recurrent Neural Network and Music"
 date: 2017-04-04 tags: [neuralNetwork, AI, learning, music]
 ---
 
-I stumbled on this great (and somewhat old) [article](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) about Recurrent Neural Network (RNN for short) recently. I will admit that I know next to nothing about Neural Network. And much less about the fact that they could be Recurrent. 
+I stumbled on this great (and somewhat old) [article](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) about Recurrent Neural Network recently. I will admit that I know next to nothing about Neural Network. And much less about the fact that they could be Recurrent. 
 
-The article (written by [Andrej Karpathy(http://karpathy.github.io/)]) goes into great details explaining why RNN are really good at learning. But what I found the most interesting were some of the *fun* examples the author created with a RNN that would eventually learn how to write! Or how the author said it:
+The article (written by [Andrej Karpathy](http://karpathy.github.io/)) goes into great details explaining why RNN are really good at learning. But what I found the most interesting were some of the *fun* examples the author created with a Recurrent Neural Network (RNN for short)  that would eventually learn how to write! Or how the author said it:
 
 > we’ll give the RNN a huge chunk of text and ask it to model the probability distribution of the next character in the sequence given a sequence of previous characters. This will then allow us to generate new text one character at a time.
 
 ### Shakespeare
-When fed everything that Shakespeare has writtent here is what comes out:
+When fed everything that Shakespeare has written here is a sample of what comes out:
 
 ```
 PANDARUS:
@@ -43,7 +43,7 @@ Pretty interesting!
 
 
 ### Linux
-When fed all the source code of the Linux kernel the RNN writes some code:
+When fed all the source code of the Linux kernel the RNN can write some code:
 
 ```C
 /*
@@ -118,4 +118,4 @@ Pierre aking his soul came to the packs and drove up his father-in-law women.
 [James Blaha](https://disqus.com/by/jamesblaha/) a commenter on the article has used a similar RNN and fed it 500mb of guitar tabs in ASCII. In the end the RNN was able to compose some [music](https://soundcloud.com/optometrist-prime/recurrence-music-written-by-a-recurrent-neural-network). Not great but not bad either!
 
 ### Another use for Lua
-The [code](https://gist.github.com/karpathy/d4dee566867f8291f086) for the RNN was created using a Lua framework called [Torch](http://torch.ch/). I was really surprise to see Lua used in something else than computer games (see my post on [Stingray Lua debugger](https://lochrist.github.io/blog/2017-03-25-stingray-lua-debugger)). I can only guess that the creators of Torch wanted a language that was easy to code with (especially since most scientist are not coder by trade) but that would also be MIGHTY fast. LuaJit performance on a desktop rivals that of C. And running RNN learning routines can take some crazy amount of time (hours, days and why not weeks!).
+The [code](https://gist.github.com/karpathy/d4dee566867f8291f086) for the RNN was created using a Lua framework called [Torch](http://torch.ch/). I was really surprise to see Lua used in something else than computer games (see my post on [Stingray Lua debugger](https://lochrist.github.io/blog/2017-03-25-stingray-lua-debugger)). I can only guess that the creators of Torch wanted a language that was easy to code with (especially since most scientists are not coder by trade) but that would also be MIGHTY fast. LuaJit performance on a desktop rivals that of C. And running RNN learning routines can take some crazy amount of time (hours, days and why not weeks!).

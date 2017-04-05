@@ -15,6 +15,11 @@
 # Post Ideas
 - Overland adventures games
 - Single file libraries + C library
+https://github.com/richgel999/miniz
+https://github.com/search?q=topic%3Asingle-header-lib&type=Repositories
+stb
+https://github.com/vurtun/nuklear (a single file IMGUI -> link to the other article)
+
 - Coding simplicity: at stingray, orthodox C++
 http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
 https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
@@ -23,7 +28,7 @@ Handmade Hero
 - Phaser and web game engine 
 - How to build a remote team
 http://www.gdcvault.com/play/1023288/How-to-Build-a-Remote
-trello: 
+trello: http://blog.trello.com/6-mistakes-when-you-work-in-office-but-have-remote-team-members
 
 # Links:
 
