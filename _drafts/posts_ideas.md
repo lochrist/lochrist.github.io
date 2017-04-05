@@ -137,8 +137,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Post incognito:
 
-https://lochrist.github.io/blog/2017-03-12-setup-a-blog
-
 https://lochrist.github.io/blog/2017-03-13-pixel-art
 
 https://lochrist.github.io/blog/2017-03-14-stingray-walkthrough
