@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recurrent Neural Network and Music"
-date: 2017-04-04
+date: 2017-04-05
 tags: [neuralNetwork, AI, learning, music]
 ---
 
