@@ -23,7 +23,17 @@ https://github.com/vurtun/nuklear (a single file IMGUI -> link to the other arti
 - Coding simplicity: at stingray, orthodox C++
 http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
 https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
+http://ourmachinery.com/post/physical-design/
+
+Handmade manifesto:
+
 Handmade Hero
+stb
+https://handmade.network/home
+https://handmade.network/manifesto
+
+
+
 - Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 - Phaser and web game engine 
 - How to build a remote team
@@ -89,6 +99,11 @@ https://tilomitra.github.io/bedrock/
 
 ### Pico-8
 http://www.lexaloffle.com/pico-8.php
+http://www.lexaloffle.com/gfx/p8_jelpi.gif
+http://www.lexaloffle.com/gfx/p8_tracker.gif
+http://www.lexaloffle.com/pico-8.php?page=manual
+
+
 
 ### Deploying world (game engine) on the cloud
 https://spatialos.improbable.io/
