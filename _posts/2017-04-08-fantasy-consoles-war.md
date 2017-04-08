@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantasy Consoles War"
-date: 2017-04-07
+date: 2017-04-08
 tags: [pico-8, fantasyConsole, lua]
 ---
 
