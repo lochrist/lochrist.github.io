@@ -26,19 +26,28 @@ https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
 http://ourmachinery.com/post/physical-design/
 
 Handmade manifesto:
-
 Handmade Hero
 stb
 https://handmade.network/home
 https://handmade.network/manifesto
 
 
+- Epic: Real vs digital and how to improve the experience
+- Magic and triggers, stack resolution
+http://www.wizards.com/mtg/images/digital/magiconline/8_20_screen_5.png
+- Hearthstone: no interaction and almost no selection
+secret and other special abilities might trigger but need no input
+- Epic how to remove some acknowledgement + triggers
 
 - Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 - Phaser and web game engine 
 - How to build a remote team
 http://www.gdcvault.com/play/1023288/How-to-Build-a-Remote
 trello: http://blog.trello.com/6-mistakes-when-you-work-in-office-but-have-remote-team-members
+
+
+console again:
+https://medium.com/@G05P3L/fantasy-console-wars-a-guide-to-the-biggest-players-in-retrogamings-newest-trend-56bbe948474d
 
 # Links:
 
@@ -97,13 +106,6 @@ https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
 ### Bedrock : Production ready node environment
 https://tilomitra.github.io/bedrock/
 
-### Pico-8
-http://www.lexaloffle.com/pico-8.php
-http://www.lexaloffle.com/gfx/p8_jelpi.gif
-http://www.lexaloffle.com/gfx/p8_tracker.gif
-http://www.lexaloffle.com/pico-8.php?page=manual
-
-
 
 ### Deploying world (game engine) on the cloud
 https://spatialos.improbable.io/
@@ -152,8 +154,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Post incognito:
 
-https://lochrist.github.io/blog/2017-03-13-pixel-art
-
 https://lochrist.github.io/blog/2017-03-14-stingray-walkthrough
 
 https://lochrist.github.io/blog/2017-03-16-small-libraries
@@ -170,7 +170,5 @@ https://lochrist.github.io/blog/2017-03-21-tech-toolbox-for-programmers
 https://lochrist.github.io/blog/2017-03-23-pixel-art-glossary
 
 https://lochrist.github.io/blog/2017-03-24-preact-internals
-
-https://lochrist.github.io/blog/2017-03-26-writing-a-game-engine
 
 https://lochrist.github.io/blog/2017-03-27-learning-magic
