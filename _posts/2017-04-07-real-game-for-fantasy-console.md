@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Real game for fantasy console"
-date: 2017-04-17
-tags: [lexaloffle, pico-8, lua, challenge, gameJam]
+date: 2017-04-07
+tags: [lexaloffle, pico-8, lua, challenge, gameJam, fantasyConsole]
 ---
 
 What could be more meta than writing a game for a console that doesn't really exists. Writing a game for a *Fantasy console?* This is what [Lexaloffle](http://www.lexaloffle.com) is proposing with its [Pico-8](http://www.lexaloffle.com/pico-8.php) plaftorm. The spec of your game will be :
@@ -31,7 +31,7 @@ But how do you develop a game for a console like this? Turns out the there is ev
 
 ![seq](../img/pico-8-code.gif)
 
-Granted 128x128 is not great for editing code. The good news is that you can pen the *cartridge* code file in your favorite editor and hot reload the game from the console:
+Granted 128x128 is not great for editing code. The good news is that you can modify the *cartridge* code from your favorite editor and hot reload the game from the console:
 
 ![lua](../img/pico-8-lua.png)
 
