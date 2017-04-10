@@ -44,10 +44,6 @@ secret and other special abilities might trigger but need no input
 
 - Phaser and web game engine 
 
-- How to build a remote team
-http://www.gdcvault.com/play/1023288/How-to-Build-a-Remote
-trello: http://blog.trello.com/6-mistakes-when-you-work-in-office-but-have-remote-team-members
-
 - Multi use cards followup from Ludology
 Up front
 Twilight struggle
