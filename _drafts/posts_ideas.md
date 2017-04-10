@@ -14,6 +14,7 @@
 
 # Post Ideas
 - Overland adventures games
+
 - Single file libraries + C library
 https://github.com/richgel999/miniz
 https://github.com/search?q=topic%3Asingle-header-lib&type=Repositories
@@ -40,14 +41,25 @@ secret and other special abilities might trigger but need no input
 - Epic how to remove some acknowledgement + triggers
 
 - Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
+
 - Phaser and web game engine 
+
 - How to build a remote team
 http://www.gdcvault.com/play/1023288/How-to-Build-a-Remote
 trello: http://blog.trello.com/6-mistakes-when-you-work-in-office-but-have-remote-team-members
 
-
-console again:
-https://medium.com/@G05P3L/fantasy-console-wars-a-guide-to-the-biggest-players-in-retrogamings-newest-trend-56bbe948474d
+- Multi use cards followup from Ludology
+Up front
+Twilight struggle
+Valley of the kings
+Imperial settlers 51st state
+Bruges
+Eminent domain
+La granja
+Ares project
+Guilds of londob
+Kanogawa
+Pixel tactic
 
 # Links:
 
