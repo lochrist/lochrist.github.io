@@ -7,7 +7,8 @@ tags: [sorcery, ink, book, computerGame]
 
 When I was young I read tons of ["Chose your own adventure books"](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure). My 2 preferred series were the [Lone Wolf series](https://en.wikipedia.org/wiki/Lone_Wolf_(gamebooks)) and the [Sorcery! series](https://en.wikipedia.org/wiki/Sorcery!). I liked that in those 2 series you played the same character and you carried your possessions, skills and abilities from book to book.
 
-### Inkle Studio [Inkle studios](http://www.inklestudios.com/) makers of the superb [80 days](http://www.inklestudios.com/80days/) game has faithfully recreated the whole [Sorcery! series](http://www.inklestudios.com/sorcery/) and you can experience it on iOS, Android and PC. You move your character on a map:
+### Inkle Studio 
+[Inkle studios](http://www.inklestudios.com/) makers of the superb [80 days](http://www.inklestudios.com/80days/) game has faithfully recreated the whole [Sorcery! series](http://www.inklestudios.com/sorcery/) and you can experience it on iOS, Android and PC. You move your character on a map:
 
 ![map](http://www.inklestudios.com/sorcery/img/s1-map.jpg)
 
