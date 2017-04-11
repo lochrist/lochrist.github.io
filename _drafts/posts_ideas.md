@@ -13,15 +13,16 @@
 - pixelArt
 
 # Post Ideas
-- Overland adventures games
 
-- Single file libraries + C library
+## Overland adventures games
+
+## Single file libraries + C library
 https://github.com/richgel999/miniz
 https://github.com/search?q=topic%3Asingle-header-lib&type=Repositories
 stb
 https://github.com/vurtun/nuklear (a single file IMGUI -> link to the other article)
 
-- Coding simplicity: at stingray, orthodox C++
+## Coding simplicity: at stingray, orthodox C++
 http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
 https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b (orthodox c++)
 http://ourmachinery.com/post/physical-design/
@@ -33,32 +34,20 @@ https://handmade.network/home
 https://handmade.network/manifesto
 
 
-- Epic: Real vs digital and how to improve the experience
+## Epic: Real vs digital and how to improve the experience
 - Magic and triggers, stack resolution
-http://www.wizards.com/mtg/images/digital/magiconline/8_20_screen_5.png
 - Hearthstone: no interaction and almost no selection
-secret and other special abilities might trigger but need no input
+- secret and other special abilities might trigger but need no input
 - Epic how to remove some acknowledgement + triggers
+http://www.wizards.com/mtg/images/digital/magiconline/8_20_screen_5.png
 
-- Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
+## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
-- Phaser and web game engine 
+## Phaser and web game engine 
 
-- Multi use cards followup from Ludology
-Up front
-Twilight struggle
-Valley of the kings
-Imperial settlers 51st state
-Bruges
-Eminent domain
-La granja
-Ares project
-Guilds of londob
-Kanogawa
-Pixel tactic
+## Crash lands review
 
-- Crash lands review
-- Bande dessinee alter ego
+## Bande dessinee alter ego
 https://www.comixology.com/Alter-Ego/comics-series/78828?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9zZXJpZXNTbGlkZXI
 
 # Links:
@@ -176,9 +165,6 @@ Post incognito:
 https://lochrist.github.io/blog/2017-03-14-stingray-walkthrough
 
 https://lochrist.github.io/blog/2017-03-16-small-libraries
-
-
-https://lochrist.github.io/blog/2017-03-17-sorcery-and-ink
 
 https://lochrist.github.io/blog/2017-03-18-boargames
 
