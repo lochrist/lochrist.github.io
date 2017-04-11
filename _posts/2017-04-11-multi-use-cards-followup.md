@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remote Teams"
+title: "Multi use cards - follow up"
 date: 2017-04-11
 tags: [cardGame, ludology]
 ---
