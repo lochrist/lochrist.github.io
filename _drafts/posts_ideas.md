@@ -57,6 +57,10 @@ Guilds of londob
 Kanogawa
 Pixel tactic
 
+
+# Bande dessinee alter ego
+https://www.comixology.com/Alter-Ego/comics-series/78828?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9zZXJpZXNTbGlkZXI
+
 # Links:
 
 ## Dev
@@ -175,8 +179,6 @@ https://lochrist.github.io/blog/2017-03-20-game-literature
 
 https://lochrist.github.io/blog/2017-03-21-tech-toolbox-for-programmers
 
-https://lochrist.github.io/blog/2017-03-23-pixel-art-glossary
-
 https://lochrist.github.io/blog/2017-03-24-preact-internals
 
-https://lochrist.github.io/blog/2017-03-27-learning-magic
+
