@@ -57,13 +57,21 @@ Guilds of londob
 Kanogawa
 Pixel tactic
 
-
-# Bande dessinee alter ego
+- Crash lands review
+- Bande dessinee alter ego
 https://www.comixology.com/Alter-Ego/comics-series/78828?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9zZXJpZXNTbGlkZXI
 
 # Links:
 
 ## Dev
+
+### Static type checking:
+https://github.com/reactjs/prop-types
+https://code.facebook.com/projects/1524880081090726/
+https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb
+
+### Human Level AI:
+https://futurism.com/human-level-ai-are-probably-a-lot-closer-than-you-think/
 
 ### Game framework + presentation
 https://github.com/SonyWWS/ATF
@@ -91,9 +99,6 @@ https://github.com/zulko/eagle.js/
 ### Webassembly in Node js
 http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
 
-
-### Porting 200K LOC of js to typescript
-https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb
 
 ### Pixel Art
 http://www.gameart2d.com/top-down-tileset-1.html
@@ -140,9 +145,11 @@ https://www.reddit.com/r/programming/comments/60wil3/text_editor_performance_com
 http://prodbg.com/rethinking-ui/
 https://github.com/emoon/ProDBG/issues/327
 
-### MobX vs Redux:
+### MobX and Redux:
 http://djcordhose.github.io/react-workshop/2017_jsunconf_mobx_redux.html#/
 https://github.com/DJCordhose/react-workshop/tree/master/code/schritte/mobx/7-mobx-complete-app
+
+https://www.sitepoint.com/manage-javascript-application-state-mobx/?utm_content=bufferb6884&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 ### Goodmodule
 https://www.instagram.com/goodmodule/
