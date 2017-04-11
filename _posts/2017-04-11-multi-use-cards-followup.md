@@ -20,7 +20,8 @@ What is really nice with that game is how easy it is to have access to it: there
 
 ![twilight struggle](https://cf.geekdo-images.com/images/pic118216.jpg)
 
-### Valley of the Kings [Dominion](https://www.boardgamegeek.com/boardgame/36218/dominion) has created its own category of card games. While most deck builders have one use for their cards (in Dominion cards are either Money, Victory Point or Action) Valley of the Kings applied its own tweak on the genre. Each card in Valley of the Kings is both Money and Action. And effects scale with the power level of the card. The more powerful an action, the more gold this card gives you. It creates a nice tension: do you spend the card for good money or do you keep it for its action?
+### Valley of the Kings
+[Dominion(https://www.boardgamegeek.com/boardgame/36218/dominion) has created its own category of card games. While most deck builders have one use for their cards (in Dominion cards are either Money, Victory Point or Action) Valley of the Kings applied its own tweak on the genre. Each card in Valley of the Kings is both Money and Action. And effects scale with the power level of the card. The more powerful an action, the more gold this card gives you. It creates a nice tension: do you spend the card for good money or do you keep it for its action?
 
 Apart from this, Valley of the Kings is a really clever and under appreciated card game. It is inexpensive, compact, it has an uncommon theme (populate your Egyptian Tomb!) and the *Entomb* mechanism is super well integrated. In order to score points from a card, you have to *Entomb* it and remove it from your deck. You need to gage how many use of a powerful card is enough before cashing it. Also, what is not to like about the card offer being shaped like a pyramid that crumble when you buy a card from its base? 
 
