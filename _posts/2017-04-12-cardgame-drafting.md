@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Card game drafting"
-date: 2017-04-04
+date: 2017-04-12
 tags: [draft, mtg, epic, cardGame]
 ---
 
