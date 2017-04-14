@@ -19,29 +19,29 @@ The digital implementation of Magic aims at EXACTLY recreating the paper game. W
 
 ![mtg phase](../img/mtg_phases.png)
 
-This makes MTGO a game that is difficult to get into for a beginner. Add this to the fact that the implementation of the game looks like a mediocre 2005 game AND that the client is Windows only and you get computer game that is only played by the REALLY motivated players. It seems the client base doesn't grow, Twitch streaming is super marginal compared to comparable games like Hearthstone.
+This makes MTGO a game that is difficult to get into for a beginner. Add this to the fact that the implementation of the game looks like a mediocre 2005 game AND that the client is Windows only and you get computer game that is only played by the REALLY motivated players. It seems the client base doesn't grow, Twitch streaming is super marginal compared to similar games like Hearthstone.
 
 ### Hearthstone - Digital
 
-[Hearthstone](http://us.battle.net/hearthstone/en/) is clearly a simplified Magic clone. It has all the same core gameplay elements: Mana, Creatures attacking an opponent and Spells. But the biggest difference is that it was built from the ground up to be a streamlined computer game. There is no way to interrupt your opponent. In fact, during your opponent turn you CANNOT do a thing except maybe watch one of your "secret cards" triggers itself automatically. 
+[Hearthstone](http://us.battle.net/hearthstone/en/) is clearly a simplified Magic clone. It has all the same core gameplay elements: Mana, Creatures attacking each other and Spells. But the biggest difference is that Hearthstone was built from the ground up to be a streamlined computer game. There is no way to interrupt your opponent. In fact, during your opponent turn you CANNOT do a thing except maybe watch one of your "secret cards" triggers itself automatically. 
 
 ![hearthine secret](http://img04.sevengames.com/public/images/documents/documents/3519/modulecontent/612x0/en_hearthstone_shunter.jpg)
 
-Each turn even has a time limit. So you know for sure that you won't wait a long time before playing your next turn.This, combined to the slick User Interface and the smooth animations makes Hearthstone the King of the Hill in terms of Digital Card Game. There are always around 100K twitch viewers at about any hour of the day!
+Each turn even has a time limit. So you know for sure that you won't wait a long time before playing your next turn.This, combined to the slick User Interface and the smooth animations makes Hearthstone the King of the Hill in terms of Digital Card Game. There are always 100K Twitch viewers at about any hour of the day!
 
 ### Epic - Paper and Digital
 
-[Epic](http://www.epiccardgame.com/) has started its life as a pure card game. It was similar to Magic: creatures, spells and life points. But it got really streamlined both in terms of Resource management: you have only a single "Mana" (called gold) during your turn and one during your opponent's turn. And most cards cost either one Gold or no gold at all. Contrary to Hearthstone you can play cards during your opponent's turn but only at some really specific time: when a creature is attacking you or at the end of the other player's turn.
+[Epic](http://www.epiccardgame.com/) has started its life as a pure card game. It is similar to Magic in  terms of design: creatures, spells and life points. But it is streamlined in terms of Resource management: you have only a single "Mana" (called Gold) during your turn and one during your opponent's turn. And most cards cost either one Gold or no Gold at all. Also, contrary to Hearthstone you can play cards during your opponent's turn but only at some really specific time: when a creature is attacking you or at the end of the other player's turn.
 
 Recently, Epic has released a [digital](https://www.kickstarter.com/projects/1172937197/epic-digital-card-game) alpha version of their card game.
 
 ![epic digital](https://ksr-ugc.imgix.net/assets/015/286/101/8b9c85f6645112eb51d180d05d1f923a_original.png?w=680&fit=max&v=1485371829&auto=format&lossless=true&s=05953f8fc545c74e05e41e8cae8c51a5)
 
-Even though Epic is simpler than Magic and has less interruption points you could see in the digital version of the game that the constant "pressing OK button to pass to the next phase" was making the flow of the game choppier than it should be.
+Even though Epic is simpler than Magic and has less interruption points you can feel that the constant "pressing OK button to pass to the next phase" is making the flow of the game choppier than it should be.
 
 ### Epic rules evolution
 
-So Epic has done the unthinkable. They have changed the rule of the game (this will affect "paper" game as well) in order to make the Digital version smoother! [Rules changes](http://www.epiccardgame.com/rules-changes-april-2017/) have been annonced recently and they are subtle but effective in maximizing the number of "decisions" you can take before passing priority to your opponent.
+So Epic has done the unthinkable. They have changed the rules of the game (this will affect "paper" game as well) in order to make the Digital version smoother! [Rules changes](http://www.epiccardgame.com/rules-changes-april-2017/) have been announced recently and they are subtle but effective in maximizing the number of "decisions" you can take before passing priority to your opponent.
 
 ### Mulligan Change
 
