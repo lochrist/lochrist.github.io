@@ -164,8 +164,6 @@ Post incognito:
 
 https://lochrist.github.io/blog/2017-03-14-stingray-walkthrough
 
-https://lochrist.github.io/blog/2017-03-16-small-libraries
-
 https://lochrist.github.io/blog/2017-03-18-boargames
 
 https://lochrist.github.io/blog/2017-03-20-game-literature
