@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Streamlining Digital Card Game"
-date: 2017-04-13
+date: 2017-04-14
 tags: [mtg, epic, hearthstone]
 ---
-
-### Magic the Gathering - Paper
 
 [Magic the Gathering](http://magic.wizards.com/en) is the granddaddy of all customizable Card game. It started the whole genre. It is the richest, it has more than 15000 unique cards, three constructed formats (Legacy, Modern, Standard) that are supported by a strong tournament structure. It even has a Pro Tour and a World Championship. 
 
