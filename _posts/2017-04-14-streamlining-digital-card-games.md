@@ -5,7 +5,9 @@ date: 2017-04-13
 tags: [mtg, epic, hearthstone]
 ---
 
-### Magic the Gathering - Paper [Magic the Gathering](http://magic.wizards.com/en) is the granddaddy of all customizable Card game. It started the whole genre. It is the richest, it has more than 15000 unique cards, three constructed formats (Legacy, Modern, Standard) that are supported by a strong tournament structure. It even has a Pro Tour and a World Championship. 
+### Magic the Gathering - Paper
+
+[Magic the Gathering](http://magic.wizards.com/en) is the granddaddy of all customizable Card game. It started the whole genre. It is the richest, it has more than 15000 unique cards, three constructed formats (Legacy, Modern, Standard) that are supported by a strong tournament structure. It even has a Pro Tour and a World Championship. 
 
 But this is a complex game. The [Turn structure](http://www.essentialmagic.com/rules/turnstructure.asp) allows players to interrupt each other at a lot of different phases (or steps). There is even a sophisticated ["Stack Mechanism"](http://www.essentialmagic.com/articles/thestack.asp) that is used to resolve all sorts of "simultaneous" triggers. Players can add to the stack as they want and when each other passes, all the triggers are resolved in Stack order (from last in- first out).
 
@@ -43,7 +45,7 @@ Even though Epic is simpler than Magic and has less interruption points you coul
 
 So Epic has done the unthinkable. They have changed the rule of the game (this will affect "paper" game as well) in order to make the Digital version smoother! [Rules changes](http://www.epiccardgame.com/rules-changes-april-2017/) have been annonced recently and they are subtle but effective in maximizing the number of "decisions" you can take before passing priority to your opponent.
 
-### Mulligan Changes
+### Mulligan Change
 
 When starting a game of Epic, you could put on the bottom of your deck any cards you didn't like and draw as many to replace it. The first player would *mulligan* and then the second.
 
@@ -64,12 +66,12 @@ With the new rules:
 
 One less clicks and priority change!
 
-### Battle Rules
+### Battle Sequence Change
 
-Changes are similar in the battle sequence, prior to the rule changes, the Attacker would be the first to be able to play Event and special abilities both after declaring attacker(s) and after the defender has selected its blocker(s). 
+The is a similar tweaks in the battle sequence. Currently the Attacker is the first player to be able to play Events and special abilities both after declaring attacker(s) and after the defender has selected its blocker(s). 
 
 With the rule changes, after having declared its Blocker(s) the **defender keeps priority** and can play Events and special abilities. Again: not a breaking change, but one less click!
 
 ### Magic Digital Next
 
-Wizards of the Coasts as annonced its [Magic Digital Next](http://magic.wizards.com/en/articles/archive/magic-digital/magic-digital-next-2017-02-17) initiative. During the next year, they will annonce change to the "Digital" presence of Magic to be more competitive against the Hearthstone of this world. Will there be rules changes? A totally new implementation of MTGO that would be disjoint of the paper game? One thing is certain though: it can't be worst than how things are at the moment.
+Wizards of the Coasts has annonced its [Magic Digital Next](http://magic.wizards.com/en/articles/archive/magic-digital/magic-digital-next-2017-02-17) initiative. During the next year, they will announce changes to the "Digital" presence of Magic hoping to be more competitive against the Hearthstone of this world. Will there be rules changes? A totally new implementation of MTGO that would be disjoint of the paper game? One thing is certain though: it can't be worst than how things are at the moment.
