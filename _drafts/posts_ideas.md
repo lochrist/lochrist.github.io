@@ -158,8 +158,6 @@ https://lochrist.github.io/blog/2017-03-18-boargames
 
 https://lochrist.github.io/blog/2017-03-20-game-literature
 
-https://lochrist.github.io/blog/2017-03-21-tech-toolbox-for-programmers
-
 https://lochrist.github.io/blog/2017-03-24-preact-internals
 
 
