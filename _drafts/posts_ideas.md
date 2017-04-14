@@ -34,21 +34,11 @@ https://handmade.network/home
 https://handmade.network/manifesto
 
 
-## Epic: Real vs digital and how to improve the experience
-- Magic and triggers, stack resolution
-- Hearthstone: no interaction and almost no selection
-- secret and other special abilities might trigger but need no input
-- Epic how to remove some acknowledgement + triggers
-http://www.wizards.com/mtg/images/digital/magiconline/8_20_screen_5.png
-
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
 ## Phaser and web game engine 
 
 ## Crash lands review
-
-## Bande dessinee alter ego
-https://www.comixology.com/Alter-Ego/comics-series/78828?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC9zZXJpZXNTbGlkZXI
 
 # Links:
 
