@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phaser Game Engine"
+title: "Phaser Learning Content"
 date: 2017-04-17
 tags: [phaser, phaserQuest, tutorials]
 ---
