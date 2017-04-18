@@ -55,10 +55,14 @@ Codenames
 
 ## Dev
 
+### Against electron
+https://josephg.com/blog/electron-is-flash-for-the-desktop/
+
 ### Static type checking:
 https://github.com/reactjs/prop-types
 https://code.facebook.com/projects/1524880081090726/
 https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb
+https://slack.engineering/typescript-at-slack-a81307fa288d
 
 ### Human Level AI:
 https://futurism.com/human-level-ai-are-probably-a-lot-closer-than-you-think/
