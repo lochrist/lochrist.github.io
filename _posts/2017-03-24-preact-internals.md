@@ -5,9 +5,9 @@ date: 2017-03-24
 tags: [preact, webDev, react]
 ---
 
-I already wrote about [preact](https://github.com/developit/preact) and I impressed I am that this really small library is on par feature wise with React. Turns out, being a small library has another advantage: it makes it easier to create a code walkthrough that is easy to follow for any developer interested in the matter. [Adam Solove](https://medium.com/@asolove) has created just that: a new serie of article ([part1](https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.cq03hepw1), [part2](https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.6c99gdyyx)) explaining how react is implemented and how it does its magic. 
+I already wrote about [preact](https://github.com/developit/preact) and how impressed I am that this really small library is on par feature-wise with React. Turns out, being a small library has another advantage: it makes it easier to create a code walkthrough that is easy to follow for any developer interested in the matter. [Adam Solove](https://medium.com/@asolove) has created just that: a new series of articles ([part1](https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.cq03hepw1), [part2](https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.6c99gdyyx)) explaining how react is implemented and how it does its magic. 
 
-These are really in depth article that goes over the code and the algortihm behind preact vdom diffing algorithm. In part one there is also a nice blurb explaining on JSX is used to turn this:
+These are really in depth article that goes over the code and the algorithm behind preact vdom diffing algorithm. In part one there is also a nice blurb explaining how JSX is used to turn this:
 
 ```javascript
 /** @jsx h **/
