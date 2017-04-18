@@ -33,6 +33,17 @@ stb
 https://handmade.network/home
 https://handmade.network/manifesto
 
+## Vladda Chvatil
+his games
+the fact that he implemented Galaxy Trucker
+how some of his games are rework:
+- talisman -> Prophecy
+- Civilization -> Through the ages
+- Magic Realms -> Mage Knight
+- Dungeon Keeper -> Dungeon Lords
+Codenames
+
+
 
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
