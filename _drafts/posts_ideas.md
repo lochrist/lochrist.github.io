@@ -21,6 +21,7 @@ https://github.com/richgel999/miniz
 https://github.com/search?q=topic%3Asingle-header-lib&type=Repositories
 stb
 https://github.com/vurtun/nuklear (a single file IMGUI -> link to the other article)
+http://duktape.org/ : js interpreter
 
 ## Coding simplicity: at stingray, orthodox C++
 http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
@@ -157,6 +158,13 @@ https://www.youtube.com/watch?v=Vh_gOMfOod8
 ### Purescript
 https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef?gi=7b33892c0afd
 http://www.purescript.org/
+
+### Replacement to TODOMVC:
+framework wars
+https://github.com/tastejs/hacker-news-pwas
+
+### Translating sites into 3D with Duktape and Preact
+https://medium.com/@bnolan/translating-sites-into-3d-with-duktape-and-preact-1723ae7264dd
 
 ## Board Games
 
