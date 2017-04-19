@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phaser Learning Content"
+title: "3D Duktape and preact"
 date: 2017-04-18
 tags: [preact, ducktable, three.cpp]
 ---
