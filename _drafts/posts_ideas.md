@@ -46,9 +46,30 @@ how some of his games are rework:
 Codenames
 
 ### CFDG
+// top 5
+https://www.contextfreeart.org/gallery/search.php?t=faves&num=5
+https://github.com/MtnViewJohn/context-free/wiki/About
+Examples:
+https://github.com/MtnViewJohn/context-free/tree/master/input
+good implementation:
+https://github.com/alpicola/contextfree.js
+Great IDE:
+http://cink.applegrew.com/art.html#
+Another IDE:
+http://azarask.in/projects/algorithm-ink/#b32debe8
+The turtle:
+https://github.com/guillaumechereau/noc
 
+### Embed HTML
+https://github.com/litehtml/litehtml
+http://www.litehtml.com/download.html
+https://github.com/litehtml/litebrowser
+https://github.com/libRocket/libRocket
+http://librocket.com/wiki/frontend/features
+https://lexborisov.github.io/Modest/
 
-
+### Coroutine in C
+http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
 
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
