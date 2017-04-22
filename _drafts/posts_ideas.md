@@ -22,6 +22,7 @@ https://github.com/search?q=topic%3Asingle-header-lib&type=Repositories
 stb
 https://github.com/vurtun/nuklear (a single file IMGUI -> link to the other article)
 http://duktape.org/ : js interpreter
+https://github.com/guillaumechereau/noc
 
 ## Coding simplicity: at stingray, orthodox C++
 http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
@@ -44,6 +45,9 @@ how some of his games are rework:
 - Dungeon Keeper -> Dungeon Lords
 Codenames
 
+### CFDG
+
+
 
 
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
@@ -55,6 +59,9 @@ Codenames
 # Links:
 
 ## Dev
+
+### Coroutine in C
+http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
 
 ### Against electron
 https://josephg.com/blog/electron-is-flash-for-the-desktop/

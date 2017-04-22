@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Single file C library"
+title: "Vlaada Chvatil"
 date: 2017-04-17
-tags: [c, singleFile, javascript]
+tags: [vlaadaChvatil, prophecy, mageKnight, throughTheAges]
 ---
