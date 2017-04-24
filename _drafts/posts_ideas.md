@@ -70,6 +70,10 @@ http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
 ### Coroutine in C
 http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
 
+### GraphQL:
+https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
+http://docs.vulcanjs.org/
+
 ### Against electron
 https://josephg.com/blog/electron-is-flash-for-the-desktop/
 
