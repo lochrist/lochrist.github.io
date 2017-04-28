@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Last "
-date: 2017-04-24
+title: "The last game I make before I die"
+date: 2017-04-27
 tags: [gdc, crashlanbds]
 ---
 
