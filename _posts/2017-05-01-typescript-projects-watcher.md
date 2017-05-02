@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Typescript projects watcher"
-date: 2017-04-27
+date: 2017-05-01
 tags: [typescript, tspw]
 ---
 
