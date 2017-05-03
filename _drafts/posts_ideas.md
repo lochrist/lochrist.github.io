@@ -2,21 +2,11 @@
 
 ## To Read
 https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e
-https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
-https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b
 https://medium.com/@nodejs/the-wonderful-and-expanding-world-of-node-js-and-robotics-23de347af1e7
 
 ## tspw
 
 ## Overland adventures games
-
-## Single file libraries + C library vs node app and millions deps???
-https://github.com/richgel999/miniz
-https://github.com/search?q=topic%3Asingle-header-lib&type=Repositories
-stb
-https://github.com/vurtun/nuklear (a single file IMGUI -> link to the other article)
-http://duktape.org/ : js interpreter
-https://github.com/guillaumechereau/noc
 
 ## Coding simplicity: at stingray, orthodox C++
 http://hacksoflife.blogspot.ca/2017/03/why-your-c-should-be-simple.html?m=1
@@ -163,6 +153,8 @@ https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 ### Js Stack
 https://github.com/verekia/js-stack-from-scratch
 https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.g8pkgi1co
+https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
+
 ### Against electron
 https://josephg.com/blog/electron-is-flash-for-the-desktop/
 
