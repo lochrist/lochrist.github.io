@@ -1,8 +1,16 @@
 # Post Ideas
 
+## To Read
+https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e
+https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
+https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b
+https://medium.com/@nodejs/the-wonderful-and-expanding-world-of-node-js-and-robotics-23de347af1e7
+
+## tspw
+
 ## Overland adventures games
 
-## Single file libraries + C library
+## Single file libraries + C library vs node app and millions deps???
 https://github.com/richgel999/miniz
 https://github.com/search?q=topic%3Asingle-header-lib&type=Repositories
 stb
