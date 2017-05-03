@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Deck Dungeon"
-date: 2017-05-03
+date: 2017-05-02
 tags: [oneDeckDungeon, boardgame]
 ---
 
@@ -9,7 +9,7 @@ I wrote [abundantly](https://lochrist.github.io/blog/2017-03-22-micro-games) on 
 
 ![odd](https://ksr-ugc.imgix.net/assets/016/393/081/d34b09647e6f7df7779fe34addd39f08_original.png?w=680&fit=max&v=1493133634&auto=format&lossless=true&s=4ea93073615582ab2c3048c5712a2fb4)
 
-This is your chance to back this great game to experience both the cleverness of the muti-use cards:
+This is your chance to back this game to experience both the cleverness of the muti-use cards:
 
 ![cards](https://ksr-ugc.imgix.net/assets/016/351/931/7bd0e16af380c3c9c4db29c04894aad6_original.png?w=680&fit=max&v=1492836724&auto=format&lossless=true&s=de585c999c50a2e8fd8cb56e31a30b8d)
 
