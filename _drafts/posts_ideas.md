@@ -3,8 +3,8 @@
 ## To Read
 https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e
 https://medium.com/@nodejs/the-wonderful-and-expanding-world-of-node-js-and-robotics-23de347af1e7
-
-## tspw
+https://pixelvision8.itch.io/
+https://github.com/share/sharedb
 
 ## Overland adventures games
 
@@ -18,16 +18,6 @@ Handmade Hero
 stb
 https://handmade.network/home
 https://handmade.network/manifesto
-
-## Vladda Chvatil
-his games
-the fact that he implemented Galaxy Trucker
-how some of his games are rework:
-- talisman -> Prophecy
-- Civilization -> Through the ages
-- Magic Realms -> Mage Knight
-- Dungeon Keeper -> Dungeon Lords
-Codenames
 
 
 ### Embed HTML
