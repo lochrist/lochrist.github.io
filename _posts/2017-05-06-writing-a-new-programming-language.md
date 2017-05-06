@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writng a new programming language"
+title: "Writing a new programming language"
 date: 2017-05-06
 tags: [dev, programmingLanguage, jai, jonBlow]
 ---
