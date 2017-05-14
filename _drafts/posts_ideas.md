@@ -28,9 +28,6 @@ https://github.com/libRocket/libRocket
 http://librocket.com/wiki/frontend/features
 https://lexborisov.github.io/Modest/
 
-### Coroutine in C
-http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
-
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
 ## Phaser and web game engine 
@@ -38,9 +35,6 @@ http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
 
 ## Dev
 --------------------------------------------------------
-
-### Coroutine in C
-http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
 
 ### Game framework + presentation
 https://github.com/SonyWWS/ATF
@@ -134,6 +128,8 @@ https://github.com/zulko/eagle.js/
 ### Webassembly in Node js
 http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
 
+### Js tail recursion
+http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html
 
 ### Front end performance
 https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/
