@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anout whisky"
+title: "About whisky"
 date: 2017-05-15
 tags: [whisky]
 ---
