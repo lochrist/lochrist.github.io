@@ -97,8 +97,12 @@ https://github.com/emoon/ProDBG/issues/327
 ### Managing js state with mobx
 https://www.sitepoint.com/manage-javascript-application-state-mobx/?utm_content=bufferb6884&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
+### Speeracer: tests optim runner
+https://github.com/ngryman/speedracer/blob/master/readme.md
+
 ### Prepact: pre-compiling module
 https://prepack.io/
+https://hackernoon.com/facebooks-prepack-the-next-killer-in-the-javascript-zone-d932556ffd8c
 
 ### Making react fast
 https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
