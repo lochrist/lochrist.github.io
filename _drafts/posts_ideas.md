@@ -28,6 +28,11 @@ https://github.com/libRocket/libRocket
 http://librocket.com/wiki/frontend/features
 https://lexborisov.github.io/Modest/
 
+### Single file library followup
+https://github.com/RandyGaul/tinyheaders
+https://github.com/rmitton/rjm
+
+
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
 ## Phaser and web game engine 
