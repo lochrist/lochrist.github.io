@@ -1,10 +1,6 @@
 # Post Ideas
 
 ## To Read
-https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e
-https://medium.com/@nodejs/the-wonderful-and-expanding-world-of-node-js-and-robotics-23de347af1e7
-https://pixelvision8.itch.io/
-https://github.com/share/sharedb
 
 ## Overland adventures games
 
@@ -19,6 +15,10 @@ stb
 https://handmade.network/home
 https://handmade.network/manifesto
 
+## Hackday
+
+## Typescript at stingray
+Links with other typescript stories.
 
 ### Embed HTML
 https://github.com/litehtml/litehtml
@@ -27,7 +27,6 @@ https://github.com/litehtml/litebrowser
 https://github.com/libRocket/libRocket
 http://librocket.com/wiki/frontend/features
 https://lexborisov.github.io/Modest/
-
 
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
@@ -39,10 +38,6 @@ https://lexborisov.github.io/Modest/
 
 ### Game framework + presentation
 https://github.com/SonyWWS/ATF
-
-### Compiler in one file
-https://github.com/Celtoys/Remotery
-see stb + doc about this
 
 ### Procedural world generation
  http://www.gamasutra.com/blogs/WilhemBates/20170202/290618/Making_a_Procedural_2D_World_in_Unity_Part_I.php
@@ -128,6 +123,8 @@ http://docs.vulcanjs.org/
 
 ### Vue.js front end ui comparison
 http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison
+http://markojs.com/
+https://medium.com/@psteeleidem/why-is-marko-fast-a20796cb8ae3
 
 ### slide show viewer (like nfslides) in vue.js
 https://github.com/zulko/eagle.js/
