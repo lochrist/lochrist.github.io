@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Patching a boardgame"
-date: 2017-05-32
+date: 2017-05-31
 tags: [ohMyGoods, multiUseCards, boardgameDevelopment]
 ---
 
