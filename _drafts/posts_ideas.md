@@ -15,11 +15,6 @@ stb
 https://handmade.network/home
 https://handmade.network/manifesto
 
-## Hackday
-
-## Typescript at stingray
-Links with other typescript stories.
-
 ### Embed HTML
 https://github.com/litehtml/litehtml
 http://www.litehtml.com/download.html
@@ -31,7 +26,6 @@ https://lexborisov.github.io/Modest/
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
 ## Phaser and web game engine 
-
 
 ## Dev
 --------------------------------------------------------
@@ -97,10 +91,6 @@ https://www.sitepoint.com/manage-javascript-application-state-mobx/?utm_content=
 ### Speeracer: tests optim runner
 https://github.com/ngryman/speedracer/blob/master/readme.md
 
-### Prepact: pre-compiling module
-https://prepack.io/
-https://hackernoon.com/facebooks-prepack-the-next-killer-in-the-javascript-zone-d932556ffd8c
-
 ### Making react fast
 https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
 
@@ -132,9 +122,6 @@ https://github.com/zulko/eagle.js/
 
 ### Webassembly in Node js
 http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
-
-### Js tail recursion
-http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html
 
 ### Front end performance
 https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/
