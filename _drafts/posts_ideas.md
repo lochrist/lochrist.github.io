@@ -2,6 +2,7 @@
 
 ## To Read
 
+
 ## Overland adventures games
 
 ## Coding simplicity: at stingray, orthodox C++
@@ -30,6 +31,9 @@ https://lexborisov.github.io/Modest/
 ## Dev
 --------------------------------------------------------
 
+### Dice Quest
+https://cuddlycolin.itch.io/fantasy-hex-tiles  (hex tiles for terrain)
+
 ### Game framework + presentation
 https://github.com/SonyWWS/ATF
 
@@ -38,6 +42,15 @@ https://github.com/SonyWWS/ATF
 
 ### Indie Games development
 http://jeff-vogel.blogspot.ca/2017/03/writing-indie-games-is-like-being.html
+
+### Dear IMGUI usage
+https://github.com/Vuhdo/imgui_freetype
+https://github.com/mikesart/gpuvis
+
+### Json Feed
+https://ndarville.com/blog/2017/05/19/json-feed-for-jekyll/
+https://jsonfeed.org/version/1
+
 
 ## Misc
 --------------------------------------------------------
