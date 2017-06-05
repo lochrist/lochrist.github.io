@@ -174,6 +174,9 @@ https://github.com/tastejs/hacker-news-pwas
 ### CSS in the code
 https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
 
+### Tad : Desktop (electron) Visualizer for tabular data (csv)
+https://github.com/antonycourtney/tad/blob/master/README.md
+
 ## Board Games
 --------------------------------------------------------
 
