@@ -76,6 +76,12 @@ https://github.com/janhuenermann/neurojs
 https://z.cash/
 https://futurism.com/what-venture-capitalists-got-wrong-about-bitcoin/
 
+### Blockchains
+https://techcrunch.com/2017/05/28/double-double-cryptocoin-bubble/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue
+https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe
+https://blog.coinbase.com/ethereum-is-the-forefront-of-digital-currency-5300298f6c75
+http://chimera.labs.oreilly.com/books/1234000001802?ref=producthunt
+
 ### How to start a startup without ruining your life
 https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
 
