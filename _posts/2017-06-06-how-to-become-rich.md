@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hackdays"
+title: "How to become rich"
 date: 2017-06-06
 tags: [howToBeRich, softwareEngineering]
 ---
