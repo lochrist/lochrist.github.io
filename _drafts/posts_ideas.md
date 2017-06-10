@@ -1,5 +1,7 @@
 # Post Ideas
 
+http://sluglibrary.com/
+
 ## To Read
 
 
@@ -33,6 +35,10 @@ https://lexborisov.github.io/Modest/
 
 ### Dice Quest
 https://cuddlycolin.itch.io/fantasy-hex-tiles  (hex tiles for terrain)
+https://opengameart.org/content/best-orthogonal-rectangular-tilesets-for-tilemaps
+https://opengameart.org/content/worldmapoverworld-tileset
+https://opengameart.org/content/16x16-overworld-tiles
+
 
 ### Game framework + presentation
 https://github.com/SonyWWS/ATF
@@ -164,6 +170,7 @@ https://github.com/reactjs/prop-types
 https://code.facebook.com/projects/1524880081090726/
 https://hashnode.com/post/how-we-migrated-a-200k-loc-project-to-typescript-and-survived-to-tell-the-story-ciyzhikcc0001y253w00n11yb
 https://slack.engineering/typescript-at-slack-a81307fa288d
+https://medium.com/the-thinkmill/adopting-flow-typescript-3549a3a36d51
 
 ### Phaser and Zenva tutorial and plugin:
 https://academy.zenva.com/lesson/boot-and-loading/
