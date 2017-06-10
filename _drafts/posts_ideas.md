@@ -104,6 +104,9 @@ https://github.com/emoon/ProDBG/issues/327
 ## Web dev:
 --------------------------------------------------------
 
+### Google Realtime - used for Drive or Google Docs (kind of hfdm like way of doing realtime collaboration editing)
+https://developers.google.com/google-apps/realtime/application#step_7_connect_listeners_for_model_events
+
 ### Managing js state with mobx
 https://www.sitepoint.com/manage-javascript-application-state-mobx/?utm_content=bufferb6884&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
