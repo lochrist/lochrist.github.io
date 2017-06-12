@@ -5,9 +5,9 @@ date: 2017-06-11
 tags: [kid, education]
 ---
 
-As the proud father of an *almost* two years old son, I hope that my kid will share some of its hobbies with me. That means I hope my kid grows into a full geeks who loves boardgames, videogames and programming!
+As the proud father of an *almost* two years old son, I hope that my kid will share some of his hobbies with me. That means I hope my kid grows into a full geek who loves boardgames, videogames and programming!
 
-In order to foster its interest in programming I already started to check what are the best toys/games to learn how to program.
+In order to foster his interest in programming I already started to check what are the best toys/games to learn how to program.
 
 ### Cubetto
 
@@ -15,11 +15,11 @@ In order to foster its interest in programming I already started to check what a
 
 ![cubetto](https://www.primotoys.com/wp-content/uploads/2016/03/cubetto.jpg)
 
-kids use the *directions blocks* to program the movements of the Cubetto woden robot. You lay out a big map on your floor and invent a story telling your kid where to move the robot:
+Kids use the *directions blocks* to program the movements of the Cubetto wooden robot. You lay out a big map on your floor and invent a story telling your kid where to move the robot:
 
 ![cubetto map](https://www.primotoys.com/wp-content/uploads/2016/03/4.Ocean_V02-01-copy_small-640x0-c-default.png)
 
-This is a costly toy but the quality is indeniable. I bought this a few weeks ago, and my son is intrigued by it. He is still too young to reason about the programming aspect but he sure likes to press the "activate" button and to watch the moving cubes crawl on the map!
+This is a costly toy but the quality is indeniable. I bought this a few weeks ago, and my son is intrigued by it. He is still too young to reason about the programming aspect but he sure likes to press the "activate" button and to watch the moving cube crawls on the map!
 
 ### Coji
 
