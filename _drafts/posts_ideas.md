@@ -38,6 +38,12 @@ https://cuddlycolin.itch.io/fantasy-hex-tiles  (hex tiles for terrain)
 https://opengameart.org/content/best-orthogonal-rectangular-tilesets-for-tilemaps
 https://opengameart.org/content/worldmapoverworld-tileset
 https://opengameart.org/content/16x16-overworld-tiles
+https://www.gamedevmarket.net/asset/world-map-pixel-art-tileset-8240/
+https://opengameart.org/content/micro-tileset-overworld-and-dungeon
+https://opengameart.org/content/denzis-artwork
+https://opengameart.org/content/dungeon-crawl-32x32-tiles
+https://opengameart.org/content/pastel-resources-tiles-96x96
+https://www.gamedevmarket.net/asset/top-down-tower-tileset-3402/
 
 
 ### Game framework + presentation
