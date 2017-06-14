@@ -112,6 +112,8 @@ https://www.reddit.com/r/programming/comments/60wil3/text_editor_performance_com
 http://prodbg.com/rethinking-ui/
 https://github.com/emoon/ProDBG/issues/327
 
+# 10 game post mortems
+http://www.gamasutra.com/view/news/238773/10_seminal_game_postmortems_every_developer_should_read.php
 
 ## Web dev:
 --------------------------------------------------------
