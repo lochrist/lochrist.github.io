@@ -119,8 +119,6 @@ https://github.com/emoon/ProDBG/issues/327
 ### Google Realtime - used for Drive or Google Docs (kind of hfdm like way of doing realtime collaboration editing)
 https://developers.google.com/google-apps/realtime/application#step_7_connect_listeners_for_model_events
 
-### Managing js state with mobx
-https://www.sitepoint.com/manage-javascript-application-state-mobx/?utm_content=bufferb6884&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 ### Speeracer: tests optim runner
 https://github.com/ngryman/speedracer/blob/master/readme.md
@@ -128,9 +126,11 @@ https://github.com/ngryman/speedracer/blob/master/readme.md
 ### Making react fast
 https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
 
-### MobX and Redux:
+###  Managing js state, MobX and Redux and others
 http://djcordhose.github.io/react-workshop/2017_jsunconf_mobx_redux.html#/
 https://github.com/DJCordhose/react-workshop/tree/master/code/schritte/mobx/7-mobx-complete-app
+https://www.sitepoint.com/manage-javascript-application-state-mobx/?utm_content=bufferb6884&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+https://github.com/luisvinicius167/dutier
 
 ### Goodmodule
 https://www.instagram.com/goodmodule/
