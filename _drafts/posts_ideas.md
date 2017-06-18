@@ -83,6 +83,7 @@ https://futurism.com/human-level-ai-are-probably-a-lot-closer-than-you-think/
 
 ### Deep learning:
 https://github.com/janhuenermann/neurojs
+https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5 (in js)
 
 ### zcash
 https://z.cash/
