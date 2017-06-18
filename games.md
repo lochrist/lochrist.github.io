@@ -31,7 +31,7 @@ title: Gaming night
 ### Phil
 On aimerait qu'il puisse jouer...
 
-## Kickstarter qui seront bientot sur le pas de ma porte!
+## Kickstarter (coming soon)
 
 ### Seb
 
