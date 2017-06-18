@@ -52,12 +52,12 @@ while True:
 
 ![vpy](../img/bouncingball.gif)
 
-By looking at that program we see tha VPython provides the heavy lifting for all the stuff a Physics students don't want to handle himself: creating 3D objects (boxes and ball), handling camera manipulation and initializing the 3D environment.
+By looking at that program we see tha VPython provides the heavy lifting for all the stuff a Physic student don't want to handle himself: creating 3D objects (boxes and ball), handling camera manipulation and initializing the 3D environment.
 
-In my opinion, the only downside to VPython for a student (and teacher) perspective is that you need to have a computer with Python installed and install VPython itself as well. A difficult endeavor as my girlfriend school the IT managers are next to useless and they prevent anybody from installing anything on any computers.
+In my opinion, the only downside to VPython for a student (and teacher) perspective is that you need to have a computer with Python and VPython installed. A difficult endeavor as my at girlfriend's school the IT managers are next to useless and they prevent anybody from installing anything on any computers.
 
 ### Glowscript
-All of those IT woes are taken care of by [Glowscript](http://www.glowscript.org). Glowscript is basically VPython (it is by the same author: the prolific [Bruce Sherwood](https://github.com/BruceSherwood)) in the web! The Glowscript web site allows users to enter and runs their programs directly from the Glow script web site.
+All of those IT woes are taken care of by [Glowscript](http://www.glowscript.org). Glowscript is basically VPython (it is by the same author: the prolific [Bruce Sherwood](https://github.com/BruceSherwood)) in the web! The Glowscript web site allows users to enter and runs their programs directly from the cloud.
 
 Here is the bouncing ball available right in your [browser](http://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/program/Bounce). If you look at the [code](http://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/program/Bounce/edit) there is a small surprise though:
 
@@ -117,7 +117,7 @@ while ( true) {
 }
 ```
 
-The whole example is in javascript and not Python! I honestly don't think javascript is significantly more difficult to learn than Python, so I wouldn't say this is a downside of Glowscript. But anyway with the help of [rapydscript-ng](https://github.com/kovidgoyal/rapydscript-ng) you can even run Python example (identical to VPython). By chaning the initial Glowscript declaration at the beginning of the script you fully have access to VPython:
+The whole example is in javascript and not Python! I honestly don't think javascript is significantly more difficult to learn than Python, so I wouldn't say this is a downside of Glowscript. But anyway with the help of [rapydscript-ng](https://github.com/kovidgoyal/rapydscript-ng) you can even run Python example (identical to VPython). By changing the initial Glowscript declaration at the beginning of the script you fully have access to VPython:
 
 ```python
 GlowScript 2.5 VPython
@@ -158,13 +158,13 @@ def move():
 move()
 ```
 
-There is a slew of [examples](http://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/) from GlowScript. Some examples are in javascript, others in VPython and some are even on coffeescript (is it really an advantage???). Note that all of those languages are *transpiled* to javascript. So even if you use VPython you WON'T have access to any python libraries. Only the core languages and VPython.
+There is a slew of [examples](http://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/) for GlowScript. Some examples are in javascript others in VPython and some are even in coffeescript (is it really an advantage???). Note that all of those languages are *transpiled* to javascript. So even if you use VPython you WON'T have access to any python libraries. Only the core language and VPython itself are supported.
 
 As a side note, VPython and Glowscript are both open source projects. You can find their repo on github [here](https://github.com/BruceSherwood/vpython-wx) and [here](https://github.com/BruceSherwood/glowscript). 
 
 ### Jupyter
 
-[Jupyter](http://jupyter.org/) seems to be the next step to all of this. I haven't had time to properly try the tech but it appears to be MUCH more than VPython. Jupyter is a general project that allows scientists to create *living web document* that can contain code (in more than 40 languages including python), UI and plain old text. Those interactive document can be shared on the web or you can install your own instance of Jupyter locally on your machine.
+[Jupyter](http://jupyter.org/) seems to be the next step to all of this. I haven't had time to properly try the tech but it appears to be MUCH more than VPython. Jupyter is a general project that allows scientists to create *living web document* that can contain code (in more than 40 languages including python), UI and plain old text. Those interactive documents can be shared on the web or you can install your own instance of Jupyter locally on your machine.
 
 For an example of Jupyter in your browser check [here](https://try.jupyter.org/). And select a python document. You will get something like this:
 
@@ -174,4 +174,4 @@ The ever prolific Bruce Sherwood has created a VPython package [for Jupyter](htt
 
 ### Verdict
 
-By far the easiest package to use is GlowScript. Not installation, all your homework can be shared and are hosted on the cloud. What more can you want? Now I just have to teach javascript to my girlfriend and expect her to be a good programming teacher for her students!
+By far the easiest package to use is GlowScript. No installation, all your homeworks can be shared and are hosted on the cloud. What more can you want? Now I just have to teach javascript to my girlfriend and expect her to be a good programming teacher for her students!
