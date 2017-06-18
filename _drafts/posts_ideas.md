@@ -112,7 +112,7 @@ https://www.reddit.com/r/programming/comments/60wil3/text_editor_performance_com
 http://prodbg.com/rethinking-ui/
 https://github.com/emoon/ProDBG/issues/327
 
-# 10 game post mortems
+# 10 games post mortems
 http://www.gamasutra.com/view/news/238773/10_seminal_game_postmortems_every_developer_should_read.php
 
 ## Web dev:
@@ -122,7 +122,7 @@ http://www.gamasutra.com/view/news/238773/10_seminal_game_postmortems_every_deve
 https://developers.google.com/google-apps/realtime/application#step_7_connect_listeners_for_model_events
 
 
-### Speeracer: tests optim runner
+### Speedracer: tests optim runner
 https://github.com/ngryman/speedracer/blob/master/readme.md
 
 ### Making react fast
@@ -207,12 +207,6 @@ https://github.com/antonycourtney/tad/blob/master/README.md
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-## Post incognito:
 
-https://lochrist.github.io/blog/2017-03-18-boargames
-
-https://lochrist.github.io/blog/2017-03-20-game-literature
-
-https://lochrist.github.io/blog/2017-03-24-preact-internals
 
 
