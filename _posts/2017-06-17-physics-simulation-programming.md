@@ -5,7 +5,7 @@ date: 2017-06-17
 tags: [glowscript, vpython, jupyter]
 ---
 
-My girlfriend is a physics *cegep* teacher. For those not in the know, or not leaving in Quebec, Canada, Cegep is a weird grade between Highschool and University. Next session, she wants to try the next big thing: introduce its students to *physics simulation programming*. I am on duty to help her find the best technology to achieve this. What do we have on the market?
+My girlfriend is a physics *cegep* teacher. For those not in the know, or not living in Quebec, Canada, Cegep is a weird grade between Highschool and University. Next session, she wants to try the next big thing: introduce its students to *physics simulation programming*. I am on duty to help her find the best technology to achieve this. What do we have on the market?
 
 ### VPython
 [VPython](http://vpython.org/) is the grand daddy of this type of stuff. It is a [Python](https://www.python.org/) library using [wxWidgets](https://www.wxwidgets.org/) to display windows, widgets and especially a 3D canvas allowing users to easily make objects move on screen according to easy to simulate equations. The whole package is easy to learn since Python is probably the easiest languages to learn. Here is an example of a python program making a ball bounce on screen:
@@ -52,9 +52,9 @@ while True:
 
 ![vpy](../img/bouncingball.gif)
 
-By looking at that program we see tha VPython provides the heavy lifting for all the stuff a Physic student don't want to handle himself: creating 3D objects (boxes and ball), handling camera manipulation and initializing the 3D environment.
+By looking at that program we see that VPython provides the heavy lifting for all the stuff a Physics student doesn't want to handle himself: creating 3D objects (boxes and ball), handling camera manipulation and initializing the 3D environment.
 
-In my opinion, the only downside to VPython for a student (and teacher) perspective is that you need to have a computer with Python and VPython installed. A difficult endeavor as my at girlfriend's school the IT managers are next to useless and they prevent anybody from installing anything on any computers.
+In my opinion, the only downside to VPython for a student (and teacher) perspective is that you need to have a computer with Python and VPython installed. A difficult endeavor as IT managers at my girlfriend's school are next to useless and they prevent anybody from installing anything on any computers.
 
 ### Glowscript
 All of those IT woes are taken care of by [Glowscript](http://www.glowscript.org). Glowscript is basically VPython (it is by the same author: the prolific [Bruce Sherwood](https://github.com/BruceSherwood)) in the web! The Glowscript web site allows users to enter and runs their programs directly from the cloud.
@@ -164,7 +164,7 @@ As a side note, VPython and Glowscript are both open source projects. You can fi
 
 ### Jupyter
 
-[Jupyter](http://jupyter.org/) seems to be the next step to all of this. I haven't had time to properly try the tech but it appears to be MUCH more than VPython. Jupyter is a general project that allows scientists to create *living web document* that can contain code (in more than 40 languages including python), UI and plain old text. Those interactive documents can be shared on the web or you can install your own instance of Jupyter locally on your machine.
+[Jupyter](http://jupyter.org/) seems to be the next step to all of this. I haven't had time to properly try the tech but it appears to be MUCH more than VPython. Jupyter is a general project that allows scientists to create *living web documents* that can contain code (in more than 40 languages including python), UI and plain old text. Those interactive documents can be shared on the web or you can install your own instance of Jupyter locally on your machine.
 
 For an example of Jupyter in your browser check [here](https://try.jupyter.org/). And select a python document. You will get something like this:
 
@@ -174,4 +174,4 @@ The ever prolific Bruce Sherwood has created a VPython package [for Jupyter](htt
 
 ### Verdict
 
-By far the easiest package to use is GlowScript. No installation, all your homeworks can be shared and are hosted on the cloud. What more can you want? Now I just have to teach javascript to my girlfriend and expect her to be a good programming teacher for her students!
+By far the easiest package to use is GlowScript. No installation, all your homework can be shared and are hosted on the cloud. What more can you want? Now I just have to teach javascript to my girlfriend and expect her to be a good programming teacher for her students!
