@@ -31,9 +31,9 @@ title: Gaming night
 ### Phil
 On aimerait qu'il puisse jouer...
 
-## Kickstarter (coming soon)
+# Kickstarter (coming soon)
 
-### Seb
+## Seb
 
 ### [7th Continent](https://www.kickstarter.com/projects/1926712971/the-7th-continent-explore-survive-you-are-the-hero)
 Coop, 1-4 joueurs, Melange de jeu d'aventure qui se joue en plusieurs sessions. Les joueurs explorent un continent avec des creatures fantastiques, doivent resoudre des problemes, se battre et tout ca...
@@ -49,3 +49,13 @@ autres vaisseaux), modifient leurs vaisseaux, font des missions...
 Un genre de jeu a la zelda ou les joueurs ont des elfes qui se promenent sur le board pour remplir des missions, acheter du loot et tout ca. Les meeples peuvent etres armes!
 
 ![tiny](https://ksr-ugc.imgix.net/assets/014/262/109/3e28d5254399e017eaa1e2244d0c0238_original.JPG?w=680&fit=max&v=1477436829&auto=format&q=92&s=9f895094971c43f663f44bb6af74a6e5)
+
+## Yan
+
+## [Rise to Nobility](https://www.kickstarter.com/projects/512772051/rise-to-nobility?ref=nav_search)
+
+## [Rising Sun](https://www.kickstarter.com/projects/cmon/rising-sun?ref=nav_search)
+
+## [Hexpanse](https://www.kickstarter.com/projects/1385946864/hexpanse?ref=discovery)
+
+## [Extension Champion of Midgard](https://www.kickstarter.com/projects/152730994/champions-of-midgard-the-expansions?ref=nav_search)
