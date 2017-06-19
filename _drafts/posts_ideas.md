@@ -30,8 +30,17 @@ https://lexborisov.github.io/Modest/
 
 ## Phaser and web game engine 
 
+## Great post mortems
+http://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428
+
 ## Dev
 --------------------------------------------------------
+
+### Slug Library: text rendering for 3D application (ui and stuff)
+http://sluglibrary.com/
+
+### Gitbook
+https://www.gitbook.com/
 
 ### Dice Quest
 https://cuddlycolin.itch.io/fantasy-hex-tiles  (hex tiles for terrain)
@@ -196,6 +205,9 @@ https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
 
 ### Tad : Desktop (electron) Visualizer for tabular data (csv)
 https://github.com/antonycourtney/tad/blob/master/README.md
+
+### Collaboration with Google Real time
+https://developers.google.com/google-apps/realtime/overview
 
 ## Board Games
 --------------------------------------------------------
