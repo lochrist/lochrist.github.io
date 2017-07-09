@@ -1,6 +1,8 @@
 # Post Ideas
 
 http://sluglibrary.com/
+https://blog.feathersjs.com/
+http://benediktmeurer.de/2017/06/20/javascript-optimization-patterns-part1/
 
 ## To Read
 
