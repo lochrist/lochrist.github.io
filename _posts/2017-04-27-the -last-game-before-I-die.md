@@ -2,7 +2,7 @@
 layout: post
 title: "The last game I make before I die"
 date: 2017-04-27
-tags: [gdc, crashlanbds]
+tags: [gdc, crashlanbds, postMortems]
 ---
 
 My last post was about [games post mortems](https://lochrist.github.io/blog/2017-04-24-no-clip). Today I watched the most touching of all post mortems: [The Last Game I Make Before I Die](https://www.youtube.com/watch?v=LQHtOg46eOw). This is a talk by Samuel Coster, one of the three Coster brothers who worked on the great [Crashlands](https://www.crashlands.net/).
