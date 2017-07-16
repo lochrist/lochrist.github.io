@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rendering and Graphics for Dummis"
+title: "Rendering and Graphics for Dummies"
 date: 2017-07-16
 tags: [programming, graphics]
 ---
