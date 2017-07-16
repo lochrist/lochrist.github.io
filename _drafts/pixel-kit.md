@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Pixel Kit"
+date: 2017-07-17
+tags: [pixelKit, gadget]
+---
+
+Always on the lookout for the latest geeky gadget, I found this great company called [kano](https://kano.me) that specializes in *gadgets that you assemble yourself and that involve programming*. They sell mainly 2 products:
+
+## Computer Kit
+
+This is a *computer* (made out of a raspberry Pi) that you assemble yourself and that you can hook to any HDMI display (you ca even buy the [screen kit](https://kano.me/store/row/products/screen-kit) if you feel like adding your custom display). 
+
+The whole package is SUPER kid friendly. The promotional video shows primary school kid building this thing and starting programming with it. The set of instructions is colorful:
+
+![computer kit](https://static.kano.me/assets/images/product-page/kano-kit/story-block/kano-story-book.jpg)
+
+It runs its own custom *KanoOS* and it is fully [community driven](https://world.kano.me/start):
+
+![Kano OS](https://static.kano.me/assets/images/product-page/kano-complete/split-list-block/kano-operating-system-large.jpg)
+
+Personnally, I found the keyboard (and the chip) to be super slick:
+
+![keyboard](https://static.kano.me/assets/images/product-page/kano-kit/product-overview/computer-kit.jpg)
+
+### Pixel Kit
+
+Their second product and the one I found awesome (probably I just ordered it) is the [Pixel Kit](https://kano.me/store/row/products/pixel-kit). Think a progammable [Lite Brite](https://en.wikipedia.org/wiki/Lite-Brite):
+
+![lite brite](http://andrewsalomone.com/blog/wp-content/uploads/2009/06/clown-lite-brite.jpg)
+
+ with some buttons for more interaction:
+
+ ![pixel kit](https://static.kano.me/assets/images/product-page/pixel-kit/learn-block/build-your-own-games.jpg)
+
+ On a Mac or PC, you can use a visual programming language or javascript to control how the gizmo behave.
+
+![pixel kit programmation](https://static.kano.me/assets/images/product-page/pixel-kit/learn-block/paint-with-light.jpg)
+
+You can program games, animation or even react to sound! All of your programs can be shared with others using the [Kano World](https://world.kano.me/shares?_ga=2.13773367.1245536632.1500038135-1853154920.1500038135) network. 
+
+I was thrilled to see this product has the full endorsement of [Saint11](https://twitter.com/saint11?lang=en) author of the great Pixel Art [tutorials](https://www.patreon.com/saint11) that I talked about in an arlier [post](https://lochrist.github.io/blog/2017-03-13-pixel-art).
+
+![saint11](../img/kano_saint11.png)
