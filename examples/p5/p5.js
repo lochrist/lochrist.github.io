@@ -10,6 +10,9 @@ var movers = [];
 var liquid;
 
 function setup() {
+    textSize(16);
+    text("Click to restart simulation", 10, 30);
+
     createCanvas(640, 360);
     reset();
     // Create liquid object
@@ -44,7 +47,6 @@ function draw() {
     }
 
 }
-
 
 function mousePressed() {
     reset();
