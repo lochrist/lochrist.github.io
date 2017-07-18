@@ -102,6 +102,6 @@ I am sure that in 2001, when Processing started it was all well and good to have
 
 The [API](https://p5js.org/reference/) is similar (but not identical) and it is a pure javascript library so you can benefit from the browser debugger, from a known and prowerful programming language and from the welath of libraries available everywhere on github. Also, it is mighty easy to embed you p5 examples in a web page:
 
-<iframe src='../examples/p5/p5.html' width='640' height='360'>
+<iframe src='../examples/p5/p5.html' width='680' height='400'>
 
 ## Using P5 to show visual Math and Physics
