@@ -96,14 +96,13 @@ Into this:
 
 The Processing Language has supports for classes, functions, lots of data structures, all sorts of drawing APIs, input management and even a bit of IO (read/write files).
 
-## P5 is Processing in a browser
+## P5
 
 I am sure that in 2001, when Processing started it was all well and good to have a java app running a *custom* programming language (simpler than java). But it is 2017 and the browser is where it is at! Enters [P5](https://p5js.org/), the javascript version of Processing.
 
 The [API](https://p5js.org/reference/) is similar (but not identical) and it is a pure javascript library so you can benefit from the browser debugger, from a known and prowerful programming language and from the welath of libraries available everywhere on github. Also, it is mighty easy to embed you p5 examples in a web page:
 
-
-<iframe src='../examples/p5/p5.html' width='680' height='400'>
+<iframe src='' frameborder="0" width='680' height='400'></iframe>
 *Click on the canvas to restart the simulation.*
 
 The p5 documentation is good containing both [tutorials](https://p5js.org/tutorials/) and many [examples](https://p5js.org/examples/). The [Getting Started](https://p5js.org/get-started/) setup is quite nice as well and easy to get going. If you use the basic functionalities of p5 you do not even need a web server. Everything can be loaded in your browser page locally:
