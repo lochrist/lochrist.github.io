@@ -102,6 +102,26 @@ I am sure that in 2001, when Processing started it was all well and good to have
 
 The [API](https://p5js.org/reference/) is similar (but not identical) and it is a pure javascript library so you can benefit from the browser debugger, from a known and prowerful programming language and from the welath of libraries available everywhere on github. Also, it is mighty easy to embed you p5 examples in a web page:
 
+
 <iframe src='../examples/p5/p5.html' width='680' height='400'>
+*Click on the canvas to restart the simulation.*
+
+The p5 documentation is good containing both [tutorials](https://p5js.org/tutorials/) and many [examples](https://p5js.org/examples/). The [Getting Started](https://p5js.org/get-started/) setup is quite nice as well and easy to get going. If you use the basic functionalities of p5 you do not even need a web server. Everything can be loaded in your browser page locally:
+
+![p5 local](https://p5js.org/assets/img/get-started/first-sketch.png)
+
+## Similarities to Glowscript
+
+A few weeks ago I talked about [Physics Simulation Programming](https://lochrist.github.io/blog/2017-06-17-physics-simulation-programming). The tech I talked about: [Glowscript](http://www.glowscript.org/) is also a javascript based tech that allows the same kind of functionalities as P5 but it adds 3D support. I haven't use those 2 technologies enough to know their key differentiators but both seems super nice to use in the context of education as they allow non-developer to easily simulate any kind of shapes interactions.
 
 ## Using P5 to show visual Math and Physics
+
+What lead me to P5 in the first place is a tweet by [kynd](https://twitter.com/kyndinfo). kynd was linking to its **great** [examples](https://kynd.github.io/p5sketches/index.html) pages containing a bunch of p5 examples using math and physics.
+
+Those examples are all [*Code Pen*](https://codepen.io/kynd/pen/oYVPbz) enabled and are thus easy to modify and to tweaks. Some examples are almost hypnotic like the Crank Slider:
+
+![crank](../img/p5_crank.gif)
+
+
+
+
