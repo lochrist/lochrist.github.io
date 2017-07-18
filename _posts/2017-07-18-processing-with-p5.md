@@ -103,7 +103,7 @@ I am sure that in 2001, when Processing started it was all well and good to have
 The [API](https://p5js.org/reference/) is similar (but not identical) and it is a pure javascript library so you can benefit from the browser debugger, from a known and prowerful programming language and from the welath of libraries available everywhere on github. Also, it is mighty easy to embed you p5 examples in a web page:
 
 
-<iframe src='../examples/p5/p5.html' width='680' height='400'>
+
 *Click on the canvas to restart the simulation.*
 
 The p5 documentation is good containing both [tutorials](https://p5js.org/tutorials/) and many [examples](https://p5js.org/examples/). The [Getting Started](https://p5js.org/get-started/) setup is quite nice as well and easy to get going. If you use the basic functionalities of p5 you do not even need a web server. Everything can be loaded in your browser page locally:
