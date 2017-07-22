@@ -6,6 +6,17 @@ http://benediktmeurer.de/2017/06/20/javascript-optimization-patterns-part1/
 
 ## To Read
 
+## Virtual DOM
+https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf
+https://medium.com/@yelouafi/react-less-virtual-dom-with-snabbdom-functions-everywhere-53b672cb2fe3
+https://www.youtube.com/watch?v=1zj7M1LnJV4
+http://www.stefankrause.net/js-frameworks-benchmark6/webdriver-ts-results/table.html# (benchmarks)
+https://infernojs.org/ (inferno itself)
+
+
+## Management by Mike Acton
+https://itsyourturnblog.com/how-much-time-should-i-spend-coding-versus-managing-4f8e5c4551c6
+https://medium.com/@mike_acton/12-tips-for-making-the-best-use-of-your-time-909be33398b4
 
 ## Overland adventures games
 
@@ -59,6 +70,9 @@ https://www.gamedevmarket.net/asset/top-down-tower-tileset-3402/
 
 ### Game framework + presentation
 https://github.com/SonyWWS/ATF
+
+### Tactical RPG
+http://www.gamasutra.com/view/news/301887/7_great_tactical_RPGs_that_every_developer_should_study.php
 
 ### Procedural world generation
  http://www.gamasutra.com/blogs/WilhemBates/20170202/290618/Making_a_Procedural_2D_World_in_Unity_Part_I.php
@@ -130,6 +144,9 @@ http://www.gamasutra.com/view/news/238773/10_seminal_game_postmortems_every_deve
 ## Web dev:
 --------------------------------------------------------
 
+### Francois DYI
+http://www.francoisdiy.com/
+
 ### Google Realtime - used for Drive or Google Docs (kind of hfdm like way of doing realtime collaboration editing)
 https://developers.google.com/google-apps/realtime/application#step_7_connect_listeners_for_model_events
 
@@ -160,6 +177,7 @@ http://www.purescript.org/
 https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
 http://docs.vulcanjs.org/
 https://dev-blog.apollodata.com/graphql-tools-a-simpler-way-to-create-graphql-apis-eadf018f3766
+https://dev-blog.apollodata.com/tutorial-graphql-subscriptions-client-side-40e185e4be76
 
 ### Vue.js front end ui comparison
 http://matthiashager.com/blog/vuejs-frontend-ui-frameworks-comparison
@@ -210,6 +228,11 @@ https://github.com/antonycourtney/tad/blob/master/README.md
 
 ### Collaboration with Google Real time
 https://developers.google.com/google-apps/realtime/overview
+
+### Dat.Gui, MrDoob, Two.js
+https://two.js.org/
+http://workshop.chromeexperiments.com/examples/gui/#6--Presets
+https://github.com/dataarts/dat.gui
 
 ## Board Games
 --------------------------------------------------------
