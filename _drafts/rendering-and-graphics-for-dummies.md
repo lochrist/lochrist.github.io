@@ -50,4 +50,11 @@ No stone are left unturned and Patrico gives examples on how to run shader in [P
 
 The Book of Shaders is not just about tools on how to run shaders. It is mostly about content you can generate with the actuals shader code! There is a section on Algorithmic drawing that covers Functions, Colors and Patterns. There is also a section on Generative Designs coering Noise and Fractals. All the *book chapters* are full of interactive code snippets. 
 
-I won't claim I understood everything, nor that I am a rendering guru but I feel I have learned a lot thanks to those 2 great articles.
+## Stingray Rendering
+
+Any post on rendering wouldn't be complete without giving a shoutout to [Tobias Persson](@tobias_persson ) last mega contribution to Stingray: [The Ultimate Stingray Renderer Walkthrough](http://bitsquid.blogspot.ca/2017/02/stingray-renderer-walkthrough.html)! This walthrough covers everything from render contexts to how Stingray uses resources with a detour explaining all the render devices and the data-driven rendering API. This walkthrough is pure gold for anybody interested in the implementation of a quality real-time renderer.
+
+Taking over the mantle from Tobias, [JP](https://twitter.com/greje656), one of our rendering guru has been on a tear with 2 great rendering blog posts in the past month:
+
+- [Physically based lens flare](http://bitsquid.blogspot.ca/2017/07/physically-based-lens-flare.html)
+- [Validating Materials and Lights](http://bitsquid.blogspot.ca/2017/07/validating-materials-and-lights-in.html) in Stingray.
