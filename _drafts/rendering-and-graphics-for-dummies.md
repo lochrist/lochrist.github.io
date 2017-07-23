@@ -5,4 +5,49 @@ date: 2017-07-16
 tags: [programming, graphics]
 ---
 
-The super talented [Stephanie Hurlburt](https://twitter.com/sehurlburt) has recently call out all graphics programmers to send "novice friendly tutorials" that could benefits aspiring graphics programmers. I will admit I am a total noob to any fancy pixels thingy. So I took onto myself to found and read at least 3 of those tutorials to learn a bit about this arcane (for me at least) domain of knowledge. Here are 
+The super talented [Stephanie Hurlburt](https://twitter.com/sehurlburt) has recently call out all graphics programmers to send "novice friendly tutorials" that could benefits aspiring graphics programmers. I will admit I am a total noob to any fancy pixels thingy. So I took onto myself to found and read at least 2 of those tutorials to learn a bit about this arcane (for me at least) domain of knowledge. Here are some of my findings:
+
+## Tell it with words
+
+I read this articl called [Graphics In Plain Language](https://renderdoc.org/blog/Graphics-in-Plain-Language/) first. This is a post by [Baldur Karlsson](https://twitter.com/baldurk) explaining only with words (no code, no equation) what a modern graphic pipeline is. There are a lot os images (most of them taken from Watchdog) showing *partially rendered* frames and how some *shading passes* impact rendering. This is a great read for ANYBODY interested in video game graphics. Even for non technical reader.
+
+## Interactive coding
+
+[The book of Shaders](https://thebookofshaders.com/) is an ongoin project (the book is not completed yet) by [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/) and [Jen Lowe](http://jenlowe.net/). And this book is on the total opposite of the previous article. It is full of interactive snippet of shader code that you can modify and and see what results are produce by those modifications.
+
+![live editing](../img/book_of_shader_example_live_editing.png)
+
+What is super impressive with this book is all the interative tools Patricio has created to allow mundane user (like myself) to test shader code. This [page](https://thebookofshaders.com/04/) highlights all the ways you can easily run some shader code. Some of the more impressive tools are:
+
+### glslCanvas
+[glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas): Patricio has created an html/js plugin ti easily hook a shader fragment to a canvas and see it live. Using you can specify the whole configuration of your shader using only a simple `<canvas>` tag:
+
+```html
+<canvas class="glslCanvas" data-fragment-url=“yourShader.frag" data-textures=“yourInputImage.png” width="500" height="500"></canvas>
+```
+
+This is the directives Patrio uses in the book to update all the "dynamic" canvas when you modify the shader code.
+
+### glslViewer
+
+[glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) is the *desktop* counterpart to the glslCanvas. It is an app that runs on Linux/MacOS (and Raspberry Pi) and that allows you to modify a text file containing your shader and see the result live:
+
+![glslViewer](https://camo.githubusercontent.com/b4f877828ee3c03ef1d26b98b1adbe022729dda7/687474703a2f2f706174726963696f676f6e7a616c657a7669766f2e636f6d2f696d616765732f676c736c5669657765722d33442e676966)
+
+### Shader Online Editor
+
+Combining his work on glslCanvas there is the [online editor](http://editor.thebookofshaders.com/) that allows you to create, save and share new shader. From the web page, you can edit code and review the result live:
+
+You can even record a sequence showing how you shader evolves in time like the *sin-color-modifying* shader here:
+
+![live editing](../img/book_of_shader_online_editor.gif)
+
+### The rest...
+
+No stone are left unturned and Patrico gives examples on how to run shader in [Processing](https://processing.org/) (which I briefly talked about [here]()), in [Three.js](https://threejs.org/) and in [Open Framework](http://openframeworks.cc/).
+
+## A lot of content
+
+The Book of Shaders is not just about tools on how to run shaders. It is mostly about content you can generate with the actuals shader code! There is a section on Algorithmic drawing that covers Functions, Colors and Patterns. There is also a section on Generative Designs coering Noise and Fractals. All the *book chapters* are full of interactive code snippets. 
+
+I won't claim I understood everything, nor that I am a rendering guru but I feel I have learned a lot thanks to those 2 great articles.
