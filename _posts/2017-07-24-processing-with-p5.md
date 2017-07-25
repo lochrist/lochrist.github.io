@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Processing with P5"
-date: 2017-07-18
+date: 2017-07-24
 tags: [processing, p5, p5sketches, cfdg]
 ---
 
@@ -48,7 +48,7 @@ Processing is a Mac/Windows/Linux **java** (sigh) app.
 
 ![processing](https://processing.org/tutorials/gettingstarted/imgs/Fig_02_01.gif)
 
-It allows a user to use a custom scripting language to turn this:
+It allows an artist to use a custom scripting language to turn this:
 
 ```javascript
 PVector location;  // Location of shape
@@ -94,33 +94,29 @@ Into this:
 
 ![bouncing](../img/processing_bouncingball.gif)
 
-The Processing Language has supports for classes, functions, lots of data structures, all sorts of drawing APIs, input management and even a bit of IO (read/write files).
+The Processing Language has support for classes, functions, lots of data structures, all sorts of drawing APIs, input management and even a bit of IO (read/write files).
 
 ## P5
 
-I am sure that in 2001, when Processing started it was all well and good to have a java app running a *custom* programming language (simpler than java). But it is 2017 and the browser is where it is at! Enters [P5](https://p5js.org/), the javascript version of Processing.
+I am sure that in 2001, when Processing started, it was all well and good to have a java app running a *custom* programming language (simpler than java). But it is 2017 and the browser is where it's at! Enters [P5](https://p5js.org/), the javascript version of Processing.
 
-The [API](https://p5js.org/reference/) is similar (but not identical) and it is a pure javascript library so you can benefit from the browser debugger, from a known and prowerful programming language and from the welath of libraries available everywhere on github. Also, it is mighty easy to embed you p5 examples in a web page:
+The [API](https://p5js.org/reference/) is similar (but not identical) and it is a pure javascript library so you can benefit from the browser debugger, from a known and powerful programming language and from the wealth of libraries available everywhere on github. Also, it is mighty easy to embed you p5 examples in a web page:
 
 <iframe src='../examples/p5/p5.html' frameborder="0" width='680' height='400'></iframe>
 *Click on the canvas to restart the simulation.*
 
-The p5 documentation is good containing both [tutorials](https://p5js.org/tutorials/) and many [examples](https://p5js.org/examples/). The [Getting Started](https://p5js.org/get-started/) setup is quite nice as well and easy to get going. If you use the basic functionalities of p5 you do not even need a web server. Everything can be loaded in your browser page locally:
+The p5 documentation is good as it contains both some [tutorials](https://p5js.org/tutorials/) and many [examples](https://p5js.org/examples/). The [Getting Started](https://p5js.org/get-started/) setup is quite nice as well and easy to get going. If you use the basic functionalities of p5 you do not even need a web server. Everything can be loaded in your browser from a local html file:
 
 ![p5 local](https://p5js.org/assets/img/get-started/first-sketch.png)
 
 ## Similarities to Glowscript
 
-A few weeks ago I talked about [Physics Simulation Programming](https://lochrist.github.io/blog/2017-06-17-physics-simulation-programming). The tech I talked about: [Glowscript](http://www.glowscript.org/) is also a javascript based tech that allows the same kind of functionalities as P5 but it adds 3D support. I haven't use those 2 technologies enough to know their key differentiators but both seems super nice to use in the context of education as they allow non-developer to easily simulate any kind of shapes interactions.
+A few weeks ago I talked about [Physics Simulation Programming](https://lochrist.github.io/blog/2017-06-17-physics-simulation-programming). The tech I talked about: [Glowscript](http://www.glowscript.org/) is also a javascript based tech that allows the same kind of functionalities as P5 but it adds 3D support. I haven't used those 2 technologies enough to know their key differentiators but both seems super nice to use in the context of education as they allow non-developers to easily simulate any kind of shapes interactions.
 
 ## Using P5 to show visual Math and Physics
 
-What lead me to P5 in the first place is a tweet by [kynd](https://twitter.com/kyndinfo). kynd was linking to its **great** [examples](https://kynd.github.io/p5sketches/index.html) pages containing a bunch of p5 examples using math and physics.
+What leads me to P5 in the first place is a tweet by [kynd](https://twitter.com/kyndinfo). kynd was linking to its **great** [website](https://kynd.github.io/p5sketches/index.html) containing a bunch of p5 examples using math and physics.
 
-Those examples are all [*Code Pen*](https://codepen.io/kynd/pen/oYVPbz) enabled and are thus easy to modify and to tweaks. Some examples are almost hypnotic like the Crank Slider:
+Those examples are all [*Code Pen*](https://codepen.io/kynd/pen/oYVPbz) enabled and are thus easy to modify and to tweak. Some examples are almost hypnotic like the Crank Slider:
 
 ![crank](../img/p5_crank.gif)
-
-
-
-

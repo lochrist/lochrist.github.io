@@ -12,6 +12,7 @@ https://medium.com/@yelouafi/react-less-virtual-dom-with-snabbdom-functions-ever
 https://www.youtube.com/watch?v=1zj7M1LnJV4
 http://www.stefankrause.net/js-frameworks-benchmark6/webdriver-ts-results/table.html# (benchmarks)
 https://infernojs.org/ (inferno itself)
+https://hackernoon.com/virtual-dom-in-reactjs-43a3fdb1d130
 
 
 ## Management by Mike Acton
