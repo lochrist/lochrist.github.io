@@ -9,7 +9,7 @@ The super talented [Stephanie Hurlburt](https://twitter.com/sehurlburt) has rece
 
 ## Tell it with words
 
-I read this articl called [Graphics In Plain Language](https://renderdoc.org/blog/Graphics-in-Plain-Language/) first. This is a post by [Baldur Karlsson](https://twitter.com/baldurk) explaining only with words (no code, no equation) what a modern graphic pipeline is. There are a lot os images (most of them taken from Watchdog) showing *partially rendered* frames and how some *shading passes* impact rendering. This is a great read for ANYBODY interested in video game graphics. Even for non technical reader.
+I read this article called [Graphics In Plain Language](https://renderdoc.org/blog/Graphics-in-Plain-Language/) first. This is a post by [Baldur Karlsson](https://twitter.com/baldurk) explaining only with words (no code, no equation) what a modern graphic pipeline is. There are a lot os images (most of them taken from Watchdog) showing *partially rendered* frames and how some *shading passes* impact rendering. This is a great read for ANYBODY interested in video game graphics. Even for non technical reader.
 
 ## Interactive coding
 
@@ -44,7 +44,7 @@ You can even record a sequence showing how you shader evolves in time like the *
 
 ### The rest...
 
-No stone are left unturned and Patrico gives examples on how to run shader in [Processing](https://processing.org/) (which I briefly talked about [here]()), in [Three.js](https://threejs.org/) and in [Open Framework](http://openframeworks.cc/).
+No stone are left unturned and Patrico gives examples on how to run shader in [Processing](https://processing.org/) (which I briefly talked about [here](https://lochrist.github.io/blog/2017-07-24-processing-with-p5)), in [Three.js](https://threejs.org/) and in [Open Framework](http://openframeworks.cc/).
 
 ## A lot of content
 
