@@ -89,6 +89,11 @@ https://github.com/mikesart/gpuvis
 https://ndarville.com/blog/2017/05/19/json-feed-for-jekyll/
 https://jsonfeed.org/version/1
 
+## Pixel Shader Dungeon and shaders
+http://pixeldungeon.watabou.ru/
+https://github.com/watabou/pixel-dungeon
+https://www.shadertoy.com/view/Xs2fWD
+https://www.shadertoy.com/view/lt3XDM (tiny earth)
 
 ## Misc
 --------------------------------------------------------
