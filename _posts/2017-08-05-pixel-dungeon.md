@@ -11,7 +11,7 @@ I recently discovered an unknown [Pixel Art](https://lochrist.github.io/blog/201
 
 I clicked it and then I rediscovered the incredibly addictive and excellent [roguelike](https://lochrist.github.io/blog/2017-03-29-roguelike-development) game: [Pixel Dungeon](http://pixeldungeon.watabou.ru/). This is a game you can get for all the platforms of the world (and [Steam](http://store.steampowered.com/app/365900/Pixel_Dungeon/)) but I especially like it on a [phone](https://itunes.apple.com/app/pixel-dungeon/id1002210090). Did I mention it is free on mobile (and 3$ on Steam)? Not freemium. Not with in-app purchase. Not free with ads. It is totally free. No gimmicks. Just gameplay.
 
-## The Rogue Game
+## A rogue game
 
 Pixel Dungeon is a true Roguelike. It contains: permadeath, hunger, generated Dungeon, Amulet of Yendor and it is incredibly difficult. There is a *unrogue* feature that might be a heresy for some: it has **no** ASCII graphics but some kick ass Pixel Art sprites:
 
@@ -31,7 +31,7 @@ I was surprised when reading about Pixel Dungeon that this game was *easy* for a
 
 I was also surprised, to learn that the game is not *fully* original. The author based it on another Roguelike called [Brogue](https://sites.google.com/site/broguegame/home). Brogue is a true ASCII roguelike that is still somewhat *cute* to look at:
 
-![brogue](https://308192c9-a-62cb3a1a-s-sites.googlegroups.com/site/broguegame/home/Torchlit%20staircase.png?attachauth=ANoY7crFRaVTTYI6eQ4aw7uoV1G5mAFWU7rzxOvZdPW1VN8SNVAuJZ1_R7J5nuU5r17i7Z8HY3ZLKNWummWc2QmUbYW88wMMAdizlXz7oyYehaUf1Y7_vKgfY_MxEp_szcs_qgQ6ibZ7axDvK04axtIS1_GQGH8sMFDNXRUncSUnvOhytW_hyNTNlKbbAO74H6yj7tqo4ox4TmrY2exFNFwiBxY5Z_QoUBdDUzntSA9vzFLxUIp6Aos%3D&attredirects=0)
+![brogue](http://i.imgur.com/kMg9f.png)
 
 Brogue was created to be a Roguelike with simpler stats and concepts. In fact your character only has one stat: Strenght. And this stat decides which equipment you can wear. Pixel Dungeon was created with the same design in mind.
 
