@@ -1,11 +1,5 @@
 # Post Ideas
 
-http://sluglibrary.com/
-https://blog.feathersjs.com/
-http://benediktmeurer.de/2017/06/20/javascript-optimization-patterns-part1/
-
-## To Read
-
 ## Virtual DOM
 https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf
 https://medium.com/@yelouafi/react-less-virtual-dom-with-snabbdom-functions-everywhere-53b672cb2fe3
@@ -14,6 +8,11 @@ http://www.stefankrause.net/js-frameworks-benchmark6/webdriver-ts-results/table.
 https://infernojs.org/ (inferno itself)
 https://hackernoon.com/virtual-dom-in-reactjs-43a3fdb1d130
 
+## Pixel Shader Dungeon and shaders
+http://pixeldungeon.watabou.ru/
+https://github.com/watabou/pixel-dungeon
+https://www.shadertoy.com/view/Xs2fWD
+https://www.shadertoy.com/view/lt3XDM (tiny earth)
 
 ## Management by Mike Acton
 https://itsyourturnblog.com/how-much-time-should-i-spend-coding-versus-managing-4f8e5c4551c6
@@ -32,14 +31,6 @@ stb
 https://handmade.network/home
 https://handmade.network/manifesto
 
-### Embed HTML
-https://github.com/litehtml/litehtml
-http://www.litehtml.com/download.html
-https://github.com/litehtml/litebrowser
-https://github.com/libRocket/libRocket
-http://librocket.com/wiki/frontend/features
-https://lexborisov.github.io/Modest/
-
 ## Theme integration in boardgame: Marco polo vs Russian railroad. Great western Trail
 
 ## Phaser and web game engine 
@@ -55,6 +46,9 @@ http://sluglibrary.com/
 
 ### Gitbook
 https://www.gitbook.com/
+
+### Objetc oriented and its Pitfalls
+https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p
 
 ### Dice Quest
 https://cuddlycolin.itch.io/fantasy-hex-tiles  (hex tiles for terrain)
@@ -88,12 +82,6 @@ https://github.com/mikesart/gpuvis
 ### Json Feed
 https://ndarville.com/blog/2017/05/19/json-feed-for-jekyll/
 https://jsonfeed.org/version/1
-
-## Pixel Shader Dungeon and shaders
-http://pixeldungeon.watabou.ru/
-https://github.com/watabou/pixel-dungeon
-https://www.shadertoy.com/view/Xs2fWD
-https://www.shadertoy.com/view/lt3XDM (tiny earth)
 
 ## Misc
 --------------------------------------------------------
@@ -149,6 +137,18 @@ http://www.gamasutra.com/view/news/238773/10_seminal_game_postmortems_every_deve
 
 ## Web dev:
 --------------------------------------------------------
+### Embed HTML
+https://github.com/litehtml/litehtml
+http://www.litehtml.com/download.html
+https://github.com/litehtml/litebrowser
+https://github.com/libRocket/libRocket
+http://librocket.com/wiki/frontend/features
+https://lexborisov.github.io/Modest/
+
+### Javascript Optimization patterns
+http://benediktmeurer.de/2017/06/20/javascript-optimization-patterns-part1/
+http://benediktmeurer.de/2017/06/29/javascript-optimization-patterns-part2/
+
 
 ### Francois DYI
 http://www.francoisdiy.com/
