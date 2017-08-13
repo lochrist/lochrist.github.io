@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hexagonal Gaming Theory"
-date: 2017-07-18
+date: 2017-08-13
 tags: [gaming, phaser, hex]
 ---
 
@@ -9,7 +9,7 @@ I like [boardgames](https://lochrist.github.io/blog/2017-03-18-boargames). And I
 
 ![hex](https://cf.geekdo-images.com/images/pic1091942_md.jpg)
 
-At some point in my programmer life I did an adaptation of the solitaire Civilization game: [Pocket Civ](https://www.boardgamegeek.com/boardgame/28044/pocket-civ) adaptation using [Google GWT library](http://www.gwtproject.org). This game uses hexagons to represents the differents regions containing resources and tribes (I lost all sources of that project sadly).
+At some point in my programmer life I did an adaptation of the solitaire Civilization game: [Pocket Civ](https://www.boardgamegeek.com/boardgame/28044/pocket-civ). This game uses hexagons to represents the differents regions containing resources and tribes. For that particular project I was using [Google GWT library](http://www.gwtproject.org).
 
 ![pocket civ](https://cf.geekdo-images.com/images/pic300025_md.jpg)
 
