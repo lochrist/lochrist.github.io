@@ -1,0 +1,52 @@
+---
+layout: post
+title: "dat GUI"
+date: 2017-08-13
+tags: [datGui, webDev, UI]
+---
+
+[DatGui](https://github.com/dataarts/dat.gui) is a nice library that can be used to embed a property editor in any webapp allowing you to tweaks variables. It can be used to debug an app or to find the right set of settings.
+
+The following [tutorial](http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage) is quite good. It highlights all the features of datGui: folders, supports for lots of variables types (number, text, color...), events and constraints. I like how easy it is to use this library.
+
+The following live example:
+
+<iframe src='../examples/p5/p5.html' frameborder="0" width='680' height='400'></iframe>
+
+Has been created with this code:
+
+```html
+<html>
+<head>
+    <script src="dat.gui.js"></script>
+    <script>
+        var FizzyText = function () {
+            this.message = 'dat.gui';
+            this.speed = 0.8;
+            this.displayOutline = false;
+            this.explode = function () { alert('Boom!'); };
+
+        };
+
+        document.addEventListener("DOMContentLoaded", function (event) {
+            window.onload = function () {
+                var text = new FizzyText();
+                var gui = new dat.GUI();
+                gui.add(text, 'message');
+                gui.add(text, 'speed', -5, 5);
+                gui.add(text, 'displayOutline');
+                gui.add(text, 'explode');
+            };
+        });
+    </script>
+</head>
+<body>
+</body>
+</html>
+```
+
+## Other nice libraries:
+
+The site hosting datGui is [Workshop . CHROMEEXPERIMENTS](http://workshop.chromeexperiments.com/). They develop other nice tools/libraries. Their most well known is arguably [ThreeJs](https://github.com/mrdoob/three.js/) a javascript 3D library.
+
+For those with less depth: [TwoJs](https://github.com/jonobr1/two.js/) is a 2D drawing library also developed by ChromeExperiments!
