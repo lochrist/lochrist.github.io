@@ -1,18 +1,5 @@
 # Post Ideas
 
-## Virtual DOM
-https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf
-https://medium.com/@yelouafi/react-less-virtual-dom-with-snabbdom-functions-everywhere-53b672cb2fe3
-https://www.youtube.com/watch?v=1zj7M1LnJV4
-http://www.stefankrause.net/js-frameworks-benchmark6/webdriver-ts-results/table.html# (benchmarks)
-https://infernojs.org/ (inferno itself)
-https://hackernoon.com/virtual-dom-in-reactjs-43a3fdb1d130
-
-## Pixel Shader Dungeon and shaders
-http://pixeldungeon.watabou.ru/
-https://github.com/watabou/pixel-dungeon
-https://www.shadertoy.com/view/Xs2fWD
-https://www.shadertoy.com/view/lt3XDM (tiny earth)
 
 ## Management by Mike Acton
 https://itsyourturnblog.com/how-much-time-should-i-spend-coding-versus-managing-4f8e5c4551c6
