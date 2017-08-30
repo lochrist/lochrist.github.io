@@ -5,7 +5,7 @@ date: 2017-08-29
 tags: [pixelArt, lostFortress, Aseprite]
 ---
 
-A few days ago I found this awesome [blog](http://lost-fortress.com/index.php/2017/08/24/pixel-art-animation-smoothness/) post about Pixel Art animation in my twitter feed. The [author](https://twitter.com/Skaz_), is also the creator and one man army behind the up coming game [Lost Fotress](http://lost-fortress.com/).
+A few days ago I found this awesome [blog](http://lost-fortress.com/index.php/2017/08/24/pixel-art-animation-smoothness/) post about Pixel Art animation in my twitter feed. The [author](https://twitter.com/Skaz_), is also the creator and one man army behind the up coming game [Lost Fortress](http://lost-fortress.com/).
 
 The post talks about different pixel art animation techniques and how they are used to convey more lifelike movement. I especially like how *animation speed and framerate* are explained using those 2 similar animation that only differs by 2 frames:
 
