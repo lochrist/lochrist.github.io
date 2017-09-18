@@ -25,6 +25,11 @@ https://handmade.network/manifesto
 ## Great post mortems
 http://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428
 
+## Pixel Art scaling
+https://www.gamasutra.com/blogs/LarsDoucet/20150929/254782/Doing_an_HD_Remake_the_Right_Way.php
+http://filthypants.blogspot.ca/2012/03/xbr-vs-hqx-interpolation-filter.html
+
+
 ## Dev
 --------------------------------------------------------
 
