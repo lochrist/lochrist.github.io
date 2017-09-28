@@ -1,6 +1,21 @@
 # Post Ideas
 
 
+Links to read:
+
+Data Directed coding: http://www.dataorienteddesign.com/dodmain/
+
+Behavior Tree:
+https://github.com/gamelab/ai-tree-plugin : plugin for kiwi js
+http://behavior3js.guineashots.com/ : behavior 3 js
+https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php 
+https://en.wikipedia.org/wiki/Behavior_tree
+
+
+
+
+
+
 ## Management by Mike Acton
 https://itsyourturnblog.com/how-much-time-should-i-spend-coding-versus-managing-4f8e5c4551c6
 https://medium.com/@mike_acton/12-tips-for-making-the-best-use-of-your-time-909be33398b4
@@ -29,6 +44,15 @@ http://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-17958864
 https://www.gamasutra.com/blogs/LarsDoucet/20150929/254782/Doing_an_HD_Remake_the_Right_Way.php
 http://filthypants.blogspot.ca/2012/03/xbr-vs-hqx-interpolation-filter.html
 
+## Analysis of the decision with One Deck Dungeon
+
+## Unity videos:
+https://m.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg
+https://m.youtube.com/watch?v=eNFJXoMIFe4
+https://m.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg
+https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/project-introduction?playlist=17150
+https://m.youtube.com/watch?v=IE19Te46kYc&ebc=ANyPxKppu4VPrhe3IOJ1wT-2Fhy9pVJJwy5d3b7N72DVSlsviKEzE2KdjRQU0kvHf5n_fQSOcHukg_fYCNYPCFXyfD0GB9KSHw
+https://www.assetstore.unity3d.com/en/#!/content/8553
 
 ## Dev
 --------------------------------------------------------
