@@ -12,8 +12,9 @@ https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_
 https://en.wikipedia.org/wiki/Behavior_tree
 
 
-
-
+## Unity UIElements
+https://docs.unity3d.com/Manual/UIElements.html
+https://github.com/Unity-Technologies/UIElementsExamples
 
 
 ## Management by Mike Acton
@@ -255,6 +256,35 @@ https://developers.google.com/google-apps/realtime/overview
 https://two.js.org/
 http://workshop.chromeexperiments.com/examples/gui/#6--Presets
 https://github.com/dataarts/dat.gui
+
+
+## Webframeworks:
+https://github.com/krausest/js-framework-benchmark
+
+
+### Surplus and S: reactive programming using a JSX compiler
+https://github.com/adamhaile/surplus
+https://github.com/adamhaile/S
+
+### DOM (not VDOM)
+https://redom.js.org/
+https://github.com/hville/pico-dom
+
+### Super fast vDom library
+https://github.com/yelouafi/petit-dom (super hyper fast)
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.4.6927&rep=rep1&type=pdf (article on dom diffing)
+https://www.codeproject.com/Articles/42279/Investigating-Myers-diff-algorithm-Part-of (*diff algo)
+https://neil.fraser.name/writing/diff/ (diff strategy)
+
+### Small vdom lib
+https://github.com/hyperapp/hyperapp
+
+### Binding API
+https://github.com/remy/bind.js/
+https://simulacra.js.org/
+http://gwendall.github.io/way/
+http://rivetsjs.com/
+
 
 ## Board Games
 --------------------------------------------------------
