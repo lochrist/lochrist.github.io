@@ -11,10 +11,24 @@ http://behavior3js.guineashots.com/ : behavior 3 js
 https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php 
 https://en.wikipedia.org/wiki/Behavior_tree
 
+WebComponent
+https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210
+https://github.com/mikeal/markdown-element/blob/master/index.js
 
+UI library:
+https://github.com/mrdoob/ui.js (from three.js editor)
+https://redom.js.org/ : small lib to create html
+https://github.com/dataarts/dat.gui
 ## Unity UIElements
+Graph library:
+https://github.com/etodd/dialogger/blob/master/dialogger.js
+https://www.jointjs.com/opensource#Download-JointJS
+https://raw.githubusercontent.com/clientIO/joint/master/dist/joint.js
+http://resources.jointjs.com/docs/jointjs/v1.1/joint.html
 https://docs.unity3d.com/Manual/UIElements.html
-https://github.com/Unity-Technologies/UIElementsExamples
+
+Phaser 3:
+https://github.com/photonstorm/phaser/tree/master/v3
 
 
 ## Management by Mike Acton
