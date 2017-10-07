@@ -299,6 +299,9 @@ https://simulacra.js.org/
 http://gwendall.github.io/way/
 http://rivetsjs.com/
 
+### Reactive stuff
+https://cryptic.io/an-intro-to-functional-reactive-programming/
+
 
 ## Board Games
 --------------------------------------------------------
