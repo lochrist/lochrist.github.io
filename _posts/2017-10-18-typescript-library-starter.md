@@ -18,11 +18,11 @@ This was all well and good since we had full control on our environement. Stingr
 
 ### Code not setup
 
-I hate setupping new projects with a passion. What I like is to code. To produce something new. Not read reading docs about yml config file (I am looking at you [Travis](https://travis-ci.org/)). I have a [github boilerplate](https://github.com/lochrist/vanilla-ts) to setup new typescript project. It is crazy simple. But it doesn't support much. But at least I understand all the ramifications of all the tech that is used :)
+I hate setupping new projects with a passion. What I like is to code. To produce something new. Not reading docs about yml config file (I am looking at you [Travis](https://travis-ci.org/)). I have a [github boilerplate](https://github.com/lochrist/vanilla-ts) to setup new typescript project. It is crazy simple. But it doesn't support much. But at least I understand all the ramifications of all the tech that is used :)
 
 ## Boilerplate to the rescue
-Over the past few years, I notice a proliferation of "boilerplate" projects to start any kind of web development. There is even a tool: [Yeoman](http://yeoman.io/) whose sole goal is to help you setup any kind of webapp (over **5600** different types!).
+Over the past few years, I noticed a proliferation of "boilerplate" projects to start any kind of web development. There is even a tool: [Yeoman](http://yeoman.io/) whose sole goal is to help you setup any kind of webapp (over **5600** different types!).
 
-I am currently working on my own web UI library. Because everyone has to have created one! It is kind of a rite of passage. Now that I want to put it out on npm I need to find a proper way to package it. And this is where I found this [typescript library starter](https://github.com/alexjoverm/typescript-library-starter) boilerplate. It is fully battery included: docs, tests, bundling. There is even a linter and code coverage. This seems to be a good start for my own usage... but still this is a lot of new techs to properly understand in order to maintain and debug my super simple library.
+I am currently working on my own web UI library. Everyone needs his own UI library! It is kind of a rite of passage. Now that I want to put it out on npm I need to find a proper way to package it. And this is where I found this [typescript library starter](https://github.com/alexjoverm/typescript-library-starter) boilerplate. It is fully battery included: docs, tests, bundling. There is even a linter and code coverage. This seems to be a good start for my own usage... but still this is a lot of new techs to properly understand in order to maintain and debug my super simple library.
 
 There is even a fork of this [boilerplate](https://github.com/tonysneed/typescript-library-starter-lite) in order to make some workflows (publishing and commiting) more customizable. I will try to gather enough courage to try this out shortly!
