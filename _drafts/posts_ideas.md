@@ -296,12 +296,31 @@ https://github.com/hyperapp/hyperapp
 ### Binding API
 https://github.com/remy/bind.js/
 https://simulacra.js.org/
+https://github.com/fiatjaf/tempreites
 http://gwendall.github.io/way/
 http://rivetsjs.com/
 
 ### Reactive stuff
 https://cryptic.io/an-intro-to-functional-reactive-programming/
+https://github.com/jbreckmckye/trkl
+https://github.com/santoshrajan/frpjs
+https://mithril.js.org/stream.html
 
+### Arrays
+https://github.com/Daniel-Hug/observable-array
+https://github.com/Daniel-Hug/observable-array/tree/gh-pages/bower_components/dom-array
+
+
+### Pixel Art Scaling
+https://www.imagemagick.org/discourse-server/viewtopic.php?t=23046
+https://code.google.com/archive/p/2dimagefilter/source/default/source
+http://techslides.com/javascript-image-resizer-and-scaling-algorithms
+https://github.com/phoboslab/js-hqx/
+https://github.com/hansonw/super-xbr
+https://github.com/gamestdio/hqx
+http://phoboslab.org/log/2012/09/drawing-pixels-is-hard
+http://tech-algorithm.com/articles/nearest-neighbor-image-scaling/
+http://playbiolab.com/hqx.php?s=2
 
 ## Board Games
 --------------------------------------------------------
