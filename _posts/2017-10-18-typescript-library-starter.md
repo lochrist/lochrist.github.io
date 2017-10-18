@@ -13,6 +13,9 @@ Then we added typescript to the mix. And we tried to have the simplest environme
 
 This was all well and good since we had full control on our environement. Stingray was a closed box. Now if you are publishing any serious library on npm for others to use this is where the [javascript fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.g8pkgi1co) will hit you hard. There are TONS (metric) of frameworks to properly setup a build environment. Do you want [continous integration](https://travis-ci.org/)? [Tests](https://karma-runner.github.io/1.0/index.html)? [Bundling](https://github.com/rollup/rollup)? [Doc](http://typedoc.org/) generation? Automatic publishing? There are multiple frameworks for each of these tasks. Which to use? Which to pick?
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">two nerds try to configure babel <a href="https://t.co/1jZ026YOKb">pic.twitter.com/1jZ026YOKb</a></p>&mdash; I Am Devloper (@iamdevloper) <a href="https://twitter.com/iamdevloper/status/920666823414214657?ref_src=twsrc%5Etfw">October 18, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Code not setup
 
 I hate setupping new projects with a passion. What I like is to code. To produce something new. Not read reading docs about yml config file (I am looking at you [Travis](https://travis-ci.org/)). I have a [github boilerplate](https://github.com/lochrist/vanilla-ts) to setup new typescript project. It is crazy simple. But it doesn't support much. But at least I understand all the ramifications of all the tech that is used :)
