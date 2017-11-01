@@ -1,5 +1,8 @@
 # Post Ideas
 
+- rollup and its usage
+- spui
+
 
 Links to read:
 
@@ -19,6 +22,7 @@ UI library:
 https://github.com/mrdoob/ui.js (from three.js editor)
 https://redom.js.org/ : small lib to create html
 https://github.com/dataarts/dat.gui
+
 ## Unity UIElements
 Graph library:
 https://github.com/etodd/dialogger/blob/master/dialogger.js
