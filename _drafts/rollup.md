@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Rollup"
+date: 2017-11-03
+tags: [rollup, webDev, typescript]
+---
+
+I developed my latest ui library [SPUI](https://lochrist.github.io/spui/) (shameless plug) using Typescript. And I wanted a way to easily distribute the libraryand make it available both for javascript development environment as well as typescript. 
+
+By default, typescript will transpile all your `.ts` in `.js`. But then you have to do something to properly include them in a webapp. Do you use a module loading system like [requirejs](http://requirejs.org/) or [SystemJs](https://github.com/systemjs/systemjs)? Or do you use a bundler like [webpack](https://webpack.github.io/) or [browserify](http://browserify.org/)? 
+
+I have already admitted in this [post](https://lochrist.github.io/blog/2017-10-18-typescript-library-starter) that I hate to configure development environment or toolchain. I like to code not to edit configuration file!
+
+Turns out there is a simple alternative: [RollupJs](https://rollupjs.org/). This is a bundler that is super easy to configure, that outputs easy to read javascript (I am looking at you webpack) in a single library file and that does "tree-shaking" which is a hipster way to saying it will only bundles code that is actually used. For example, if you want to bundle your sweet webapp that only uses 2 functions from library XYZ, it will only bundle those 2 functions in the resulting bundled file and not all the functions of the library.
+
+Rollup also uses javascript as its format for configuration file! Not YML (I am looking at you travis) or any other json based config format. Plain Old Javascript. This means your configuration file can include code!
+
+[SPUI](https://github.com/lochrist/spui) (another plug) `rollup.config.js` looks like this:
+
+```javascript
+import sourceMaps from 'rollup-plugin-sourcemaps';
+
+const path = require('path');
+const fs = require('fs');
+
+const inputBasePath = 'es';
+const outputBasePath = 'dist';
+
+function createBundleConfig(input, outputName = undefined, bundleName = undefined) {
+    const inputFile = path.join(inputBasePath, input);
+    const outFile = path.join(outputBasePath, outputName || input);
+    return {
+        input: inputFile,
+        output: {
+            file: outFile,
+            format: "umd"
+        },
+        sourcemap: true,
+        name: bundleName,
+        plugins: [
+            sourceMaps()
+        ]
+    }
+}
+
+const examples = fs.readdirSync('examples').map(exampleDir => {
+    const example = path.join('examples', exampleDir, 'index.ts');
+    if (fs.existsSync(example)) {
+        return example.replace('.ts', '.js');
+    }
+}).filter(exampleFile => !!exampleFile);
+
+const exampleConfigs = examples.map(input => createBundleConfig(input));
+
+export default [
+    createBundleConfig('spui/index.js', 'spui.js', 'spui'),
+    createBundleConfig('tests/spec.js'),
+    ...exampleConfigs
+]
+```
+
+I basically use nodejs `fs` to look at all the examples and bundle each of them in their own app.
+
+To produce a bundle for SPUI I only need to execute 2 commands:
+
+```
+tsc && rollup -c rollup.config.ts
+```
+
+Which translates to "uses tsc to transpile all javascript to a folder" than uses rollup to bundle the whole library. As you see in the rollup.config.hs file we indicate to rollup what is the "main" file of the library: `index.js`. And then rollup will walk through the `import` and `export` statements and found everything that is needed to bundle `spui.js` in a single file. Voila!
+
+Rollup supports a slew of other features: [plugins](https://github.com/rollup/rollup/wiki/Plugins), lots of module format support, surcemaps and such. For [SPUI](https://www.npmjs.com/package/spui) (third time is the charm) the barest minimum was all it took and that is mighty fine with me! 
+
+As a side node the [Typescript Library Starter](https://github.com/alexjoverm/typescript-library-starter) boilerplate that I alluded to in a previous [post](https://lochrist.github.io/blog/2017-10-18-typescript-library-starter) is already setup for rollup!

@@ -1,9 +1,5 @@
 # Post Ideas
 
-- rollup and its usage
-- spui
-
-
 Links to read:
 
 Data Directed coding: http://www.dataorienteddesign.com/dodmain/
