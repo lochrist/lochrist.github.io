@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eitr"
-date: 2017-10-18
+date: 2017-11-13
 tags: [eitr, pixelArt, computerGame]
 ---
 
