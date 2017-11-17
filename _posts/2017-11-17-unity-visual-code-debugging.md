@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unity and Visual Code"
-date: 2017-10-18
+date: 2017-11-17
 tags: [unity, visualCode]
 ---
 
@@ -9,7 +9,7 @@ Last time I used Unity, I was on a Mac using [MonoDevelop](http://www.monodevelo
 
 ## Because it is 2017: Visual Code!
 
-To my pleasant surprise I noticed that there is now a [Debugger extension](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug) for Unity available in the Visual Code Marketplace.
+To my pleasant surprise I noticed that there is now a [Visual Code Debugger extension](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug) for Unity available in the Visual Code Marketplace.
 
 It is SUPER simple to setup:
 
