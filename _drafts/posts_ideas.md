@@ -2,6 +2,9 @@
 
 Links to read:
 
+Pixel Spirit
+https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
+
 Data Directed coding: http://www.dataorienteddesign.com/dodmain/
 
 Behavior Tree:
@@ -69,6 +72,10 @@ https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/project-intro
 https://m.youtube.com/watch?v=IE19Te46kYc&ebc=ANyPxKppu4VPrhe3IOJ1wT-2Fhy9pVJJwy5d3b7N72DVSlsviKEzE2KdjRQU0kvHf5n_fQSOcHukg_fYCNYPCFXyfD0GB9KSHw
 https://www.assetstore.unity3d.com/en/#!/content/8553
 
+## Simple2d 2d game engine:
+https://github.com/simple2d/simple2d (c++)
+https://github.com/simple2d/simple2d.js/tree/master/src (js)
+
 ## Dev
 --------------------------------------------------------
 
@@ -93,6 +100,8 @@ https://opengameart.org/content/dungeon-crawl-32x32-tiles
 https://opengameart.org/content/pastel-resources-tiles-96x96
 https://www.gamedevmarket.net/asset/top-down-tower-tileset-3402/
 
+### Procedural Map Generator
+https://github.com/marukrap/Procedural-Map-Generator
 
 ### Game framework + presentation
 https://github.com/SonyWWS/ATF
@@ -109,6 +118,7 @@ http://jeff-vogel.blogspot.ca/2017/03/writing-indie-games-is-like-being.html
 ### Dear IMGUI usage
 https://github.com/Vuhdo/imgui_freetype
 https://github.com/mikesart/gpuvis
+https://github.com/HMNBadBoyz/ImForms
 
 ### Json Feed
 https://ndarville.com/blog/2017/05/19/json-feed-for-jekyll/
@@ -271,6 +281,8 @@ https://two.js.org/
 http://workshop.chromeexperiments.com/examples/gui/#6--Presets
 https://github.com/dataarts/dat.gui
 
+## CSS Grid
+https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583
 
 ## Webframeworks:
 https://github.com/krausest/js-framework-benchmark
