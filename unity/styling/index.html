@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Unity | by Sebastien Phaneuf @sebastienp</title>
+    
+    <meta name="description" content="This is a mighty Unity presentation" />
+    <meta name="author" content="Sebastien Phaneuf" />
+    <link rel="stylesheet" href="extras/highlight/styles/github.css">
+
+    <!--
+        Styles specific for this example presentation. 
+    -->
+    <link href="css/markdown-slides.css" rel="stylesheet" />
+    <link href="css/devopsy.css" rel="stylesheet" />
+    <link href="css/effects.css" rel="stylesheet" />
+    
+</head>
+
+<img id="unity-icon" class="bg" src="img/unity-icon-white.png">
+<div id="impress" data-transition-duration="1000">
+
+<div id="title-slide" class="step slide title markdown" data-x="0" data-y="0">
+
+# Editor Styling
+
+## Styling IMGUI with CSS
+
+![stylesheets-demo](img/css-icon.jpg)
+
+</div>
+
+<div class="step slide markdown" data-rel-x="0" data-rel-y="2000">
+# Editor Styles
+- IMGUI styling is handled with EditorStyles assets (located in the `External/Resources/editor_resources` project).
+    - This means DarkSkin and LightSkin are generated from our 607 different EditorStyles.
+- EditorStyles have some nice functionalities:
+    - Inheritance
+    - Light and Dark Style share common properties
+    - EditorStyles grouped by categories (i.e folders)
+
+-----
+
+# Editor Styles Tooling - Styles Explorer
+
+![editorstyles](img/editor-styles-editor.png)
+
+-----
+
+# Editor Styles Tooling - Inspector
+
+![editorstyles](img/editor-styles-inspector.png)
+
+-----
+# IMGUI and StyleSheets
+
+- Goal: Use StyleSheets instead of EditorStyles when generating `GUISkin`
+    - Harmonize styling technology with UIElements
+    - Allows for easier "theming": using variables it becomes easy to publish new theme
+- This has no impact on runtime code. IMGUI still consumes `GUISkin/GUIStyle`
+- How will this impact me?
+    - If you use to modify EditorStyles, you will modify StyleSheets instead
+    - We have tried to provide tooling and workflows to make the transition as smooth as possible
+
+-----
+# Stylesheets Workflow
+
+- StyleSheet rules map to GUIStyle:
+    - Some properties are common to IMGUI and UIElements: `width`, `height`, `font`, ...
+    - Some properties are IMGUI specific: `-unity-slice-left`, ...
+    - Ensure all custom properties are prefixed with `-unity-`
+- We aim to have all the "advantages" of EditorStyles:
+    - All current StyleSheets were generated from the EditorStyles (keep same hierarchy)
+    - Same folder structure as EditorStyles
+    - Each folder has a dark.uss, light.uss and common.uss file
+        - common.uss contains all properties common to both light and dark skins
+        - light.uss/dark.uss *mostly* differs by `text-color` and images
+    - Inheritance (similar to LESS/SASS)
+    - And Variables!
+
+-----
+# What does a StyleSheet look like?
+
+![stylesheets-demo](img/stylesheets.png)
+
+-----
+# StyleSheets Format Improvements
+
+### Inheritance
+
+        Label {
+            text-color: rgb(180, 180, 180);
+            font: resource("Lucida Grande.ttf");
+            margin-top: 4;
+            margin-bottom: 4;
+        }
+
+        .imgui-style-PlayerSettingsLevel {
+            -unity-extend: "Label";
+
+            /** overrides parent properties*/
+            font: none;
+            margin-bottom: 0;
+        }
+
+### USS Variables
+
+        * {
+            --text-color-normal: rgb(180, 180, 180);
+            --text-color-light-shade: rgb(224, 224, 224);
+            --text-color-lighter-shade: rgb(240, 240, 240);
+        }
+
+        .imgui-style-PlayerSettingsLevel {
+            -text-color: --text-color-normal;
+        }
+</div>
+
+<div class="step slide markdown demo" data-rel-x="0" data-rel-y="2000">
+# StyleSheets live editing
+
+![stylesheets-demo](img/variable_support.gif)
+
+-----
+
+# StyleSheets Explorer with Style Picker
+
+![style_inspector](img/uss_picker.gif)
+
+-----
+
+# StyleSheets Palette
+
+![style_inspector](img/style_palette.gif)
+
+-----
+
+# What's next
+
+- This is the first pass. EditorStyles have been automatically converted one-to-one to StylSheets rules.
+- Do a clean up of EditorStyles:
+    - Remove unused styles
+    - Make better use of inheritance and variable to make the StyleSheets more modular
+- Harmonize IMGUI StyleSheets with UIElements to see if we can share some styling rules
+- React to user feedback on the new styling workflow
+
+</div>
+
+<div id="end-slide" class="step slide demo" data-rotate="-85" data-x="2000" data-y="10000" data-z="1000" data-scale="4">
+    <img src="img/unity-master-white.png" alt="pow" style="height: 100%;"/>
+</div>
+
+<div id="overview" class="step" data-x="5000" data-y="9000" data-scale="25" style="pointer-events: none;" data-rotate="5">
+</div>
+
+</div>
+
+<div id="impress-toolbar"></div>
+<div id="impress-help"></div>
+
+
+<!-- Extra modules
+     Load highlight.js, mermaid.js and markdown.js from extras.
+     See also src/plugins/extras/extras.js -->
+<script type="text/javascript" src="extras/highlight/highlight.pack.js"></script>
+<script type="text/javascript" src="extras/markdown/markdown.js"></script>
+
+<!--
+    To make all described above really work, you need to include impress.js in the page.
+    You also need to call a `impress().init()` function to initialize impress.js presentation.
+    And you should do it in the end of your document. 
+-->
+<script type="text/javascript" src="impress/impress.js"></script>
+<script>impress().init();</script>
+</body>
+</html>
