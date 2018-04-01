@@ -2,6 +2,24 @@
 
 Links to read:
 
+# Roguelike Deck builder (or such)
+- Solitairica
+- Meteorfall
+- Shadowhand
+- Slay the Spire
+- Monster Slayers
+- Card Quest
+
+
+# Visual Code textbuffer (javascript optim)
+https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation
+https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
+
+nano jammer fantasy console (support for gifs and google drive)
+https://morgan3d.github.io/nano/doc/specification.md.html
+
+xcell: https://tomazy.github.io/xcell/ (like value with deps for SPUI. Uses a graph visualization and dot)
+
 Pixel Spirit
 https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
 
@@ -78,6 +96,11 @@ https://github.com/simple2d/simple2d.js/tree/master/src (js)
 
 ## Dev
 --------------------------------------------------------
+
+### Celeste / Engine XNA
+https://bitbucket.org/MattThorson/monocle-engine/src/57dfb3ad160f20fde501a99362f6c4bd0758b503/Monocle/?at=default
+https://github.com/NoelFB/Celeste/blob/master/Source/Player.cs
+https://mattmakesgames.tumblr.com/post/127890619821/towerfall-physics
 
 ### Slug Library: text rendering for 3D application (ui and stuff)
 http://sluglibrary.com/
@@ -311,6 +334,9 @@ https://simulacra.js.org/
 https://github.com/fiatjaf/tempreites
 http://gwendall.github.io/way/
 http://rivetsjs.com/
+
+### Templating library
+https://github.com/Polymer/lit-html
 
 ### Reactive stuff
 https://cryptic.io/an-intro-to-functional-reactive-programming/
