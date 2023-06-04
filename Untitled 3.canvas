@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"4c5d15624871014b","x":447,"y":605,"width":400,"height":400,"type":"file","file":"_posts/2017-03-22-micro-games.md"},
+		{"id":"313762f0019fb607","x":-203,"y":205,"width":400,"height":400,"type":"file","file":"_posts/2017-04-03-reigns-and-emerging-narrative.md"},
+		{"id":"211f1fd1a8e45ba7","x":-680,"y":805,"width":400,"height":400,"type":"file","file":"_posts/2017-04-05-recurrent-neural-networks-and-music.md"},
+		{"id":"3e009a77dd461e34","x":111,"y":1371,"width":400,"height":400,"type":"file","file":"_posts/2017-04-06-google-spanner.md"},
+		{"id":"669c5476b099e335","x":-705,"y":1859,"width":400,"height":400,"type":"file","file":"_posts/2017-04-08-fantasy-consoles-war.md"},
+		{"id":"ff4321d77be978bc","x":-905,"y":-468,"width":400,"height":400,"type":"file","file":"_posts/2017-03-28-insomniac-cache-simulation.md"},
+		{"id":"b320942ce3c51eaa","x":197,"y":-468,"width":400,"height":400,"type":"file","file":"_posts/2017-03-17-sorcery-and-ink.md"}
+	],
+	"edges":[]
+}
